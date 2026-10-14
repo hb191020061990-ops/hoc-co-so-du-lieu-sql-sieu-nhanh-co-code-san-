@@ -1,0 +1,784 @@
+# B2
+// Cấp B2 – Trung cao cấp
+
+@ economy | Kinh tế | 📊
+recession|n|suy thoái kinh tế|📉|The country is in a recession.|Đất nước đang trong thời kỳ suy thoái.
+crisis|n|cuộc khủng hoảng|🔥|The financial crisis affected millions.|Cuộc khủng hoảng tài chính ảnh hưởng đến hàng triệu người.
+prosperity|n|sự thịnh vượng|🌾|The country enjoyed years of prosperity.|Đất nước đã có nhiều năm thịnh vượng.
+prosperous|adj|thịnh vượng|💰|It's a prosperous town.|Đó là một thị trấn thịnh vượng.
+GDP|n|tổng sản phẩm quốc nội|📈|GDP grew by 6% last year.|GDP đã tăng 6% năm ngoái.|/ˌdʒiː diː ˈpiː/
+investor|n|nhà đầu tư|💼|Foreign investors are interested in Vietnam.|Các nhà đầu tư nước ngoài quan tâm đến Việt Nam.
+shareholder|n|cổ đông|📃|The shareholders approved the plan.|Các cổ đông đã thông qua kế hoạch.
+stock market|n|thị trường chứng khoán|📈|The stock market fell sharply.|Thị trường chứng khoán giảm mạnh.
+asset|n|tài sản|🏠|Her house is her biggest asset.|Ngôi nhà là tài sản lớn nhất của cô ấy.
+dividend|n|cổ tức|💵|The company paid a dividend to shareholders.|Công ty đã trả cổ tức cho cổ đông.
+expenditure|n|sự chi tiêu|💸|Government expenditure on health has increased.|Chi tiêu của chính phủ cho y tế đã tăng.
+fund|n|quỹ|🏦|They set up a fund to help the victims.|Họ lập một quỹ để giúp đỡ các nạn nhân.
+subsidy|n|tiền trợ cấp|🤲|Farmers receive subsidies from the government.|Nông dân nhận trợ cấp từ chính phủ.
+tariff|n|thuế quan|🧾|The new tariffs will affect imports.|Thuế quan mới sẽ ảnh hưởng đến hàng nhập khẩu.
+demand|n|nhu cầu|📈|There is a high demand for electric cars.|Nhu cầu về ô tô điện rất cao.
+supply chain|n|chuỗi cung ứng|🔗|The pandemic disrupted supply chains.|Đại dịch đã làm gián đoạn chuỗi cung ứng.
+monopoly|n|sự độc quyền|👑|The company has a monopoly on the market.|Công ty độc quyền trên thị trường.
+globalisation|n|toàn cầu hóa|🌐|Globalisation has changed the way we work.|Toàn cầu hóa đã thay đổi cách chúng ta làm việc.
+fluctuate|v|dao động|〰️|Prices fluctuate from month to month.|Giá cả dao động theo từng tháng.
+decline|v|suy giảm|📉|Sales have declined this year.|Doanh số đã giảm trong năm nay.
+boost|v|thúc đẩy, tăng cường|🚀|Tourism boosts the local economy.|Du lịch thúc đẩy kinh tế địa phương.
+collapse|v|sụp đổ|💥|The bank collapsed in 2008.|Ngân hàng đã sụp đổ vào năm 2008.
+generate|v|tạo ra|⚡|Tourism generates a lot of income.|Du lịch tạo ra nhiều thu nhập.
+allocate|v|phân bổ|📊|The money was allocated to education.|Số tiền đã được phân bổ cho giáo dục.
+estimate|v|ước tính|🔢|It is estimated that 2 million people visited.|Ước tính có 2 triệu người đã đến thăm.
+forecast|n|dự báo|📡|The economic forecast is positive.|Dự báo kinh tế là tích cực.
+sector|n|khu vực, lĩnh vực|🏭|She works in the public sector.|Cô ấy làm việc trong khu vực công.
+private sector|n|khu vực tư nhân|🏢|Wages are higher in the private sector.|Lương ở khu vực tư nhân cao hơn.
+austerity|n|chính sách thắt lưng buộc bụng|🪢|Austerity measures led to protests.|Các biện pháp thắt lưng buộc bụng đã dẫn đến biểu tình.
+affluent|adj|giàu có, sung túc|💎|They live in an affluent area.|Họ sống ở một khu vực giàu có.
+lucrative|adj|sinh lợi nhiều|💹|It's a lucrative business.|Đó là một ngành kinh doanh béo bở.
+bankrupt|adj|phá sản|📉|The company went bankrupt.|Công ty đã phá sản.
+fiscal|adj|thuộc tài chính công|🏛️|The fiscal year starts in January.|Năm tài chính bắt đầu vào tháng Một.
+commodity|n|hàng hóa (nguyên liệu)|🛢️|Oil is an important commodity.|Dầu là một mặt hàng quan trọng.
+consumerism|n|chủ nghĩa tiêu dùng|🛍️|Consumerism is harmful to the environment.|Chủ nghĩa tiêu dùng có hại cho môi trường.
+purchase|n|việc mua sắm, món hàng|🛒|Keep your receipt as proof of purchase.|Hãy giữ hóa đơn làm bằng chứng mua hàng.
+deficit|n|sự thâm hụt|📉|The country has a large trade deficit.|Đất nước có thâm hụt thương mại lớn.
+wealth gap|n|khoảng cách giàu nghèo|↕️|The wealth gap is getting wider.|Khoảng cách giàu nghèo ngày càng lớn.
+living standard|n|mức sống|🏠|Living standards have improved greatly.|Mức sống đã được cải thiện rất nhiều.
+merger|n|sự sáp nhập|🔗|The merger created the biggest bank in the country.|Vụ sáp nhập đã tạo ra ngân hàng lớn nhất cả nước.
+acquisition|n|sự mua lại; sự tiếp thu|🤝|The acquisition cost $2 billion.|Thương vụ mua lại có giá 2 tỷ đô la.
+turnover|n|doanh thu; tỷ lệ thay nhân viên|🔄|The company has an annual turnover of $5 million.|Công ty có doanh thu hằng năm 5 triệu đô.
+outsource|v|thuê ngoài|📤|Many companies outsource their customer service.|Nhiều công ty thuê ngoài dịch vụ khách hàng.
+productivity|n|năng suất|⚙️|New machines increased productivity.|Máy móc mới đã làm tăng năng suất.
+incentive|n|sự khuyến khích, ưu đãi|🎁|Tax incentives attract foreign investors.|Ưu đãi thuế thu hút nhà đầu tư nước ngoài.
+downturn|n|sự suy thoái|📉|There was an economic downturn last year.|Năm ngoái có một đợt suy thoái kinh tế.
+sustainability|n|tính bền vững|🌱|The company focuses on sustainability.|Công ty tập trung vào tính bền vững.
+
+@ politics | Chính trị & chính phủ | 🏛️
+democracy|n|nền dân chủ|🗳️|Democracy gives people the right to vote.|Nền dân chủ trao cho người dân quyền bầu cử.
+parliament|n|quốc hội|🏛️|Parliament passed the new law.|Quốc hội đã thông qua luật mới.
+legislation|n|pháp luật, sự lập pháp|📜|New legislation protects workers' rights.|Luật mới bảo vệ quyền lợi người lao động.
+constitution|n|hiến pháp|📜|The constitution protects freedom of speech.|Hiến pháp bảo vệ quyền tự do ngôn luận.
+authority|n|quyền lực; nhà chức trách|👮|The local authorities closed the road.|Chính quyền địa phương đã đóng con đường.
+minister|n|bộ trưởng|🎩|The education minister visited our school.|Bộ trưởng giáo dục đã thăm trường chúng tôi.
+ministry|n|bộ (chính phủ)|🏢|She works at the Ministry of Health.|Cô ấy làm việc tại Bộ Y tế.
+ballot|n|lá phiếu; cuộc bỏ phiếu|🗳️|The result of the ballot was announced.|Kết quả bỏ phiếu đã được công bố.
+campaign|v|vận động|📣|They campaigned for better schools.|Họ đã vận động cho trường học tốt hơn.
+reform|n|cuộc cải cách|🔧|The government promised economic reform.|Chính phủ hứa hẹn cải cách kinh tế.
+regulation|n|quy định|📏|There are strict safety regulations.|Có những quy định an toàn nghiêm ngặt.
+regime|n|chế độ (cai trị)|🏴|The old regime fell in 1989.|Chế độ cũ sụp đổ năm 1989.
+diplomat|n|nhà ngoại giao|🤝|He worked as a diplomat in Japan.|Ông ấy từng là nhà ngoại giao ở Nhật Bản.
+diplomatic|adj|thuộc ngoại giao; khéo léo|🕊️|The two countries have good diplomatic relations.|Hai nước có quan hệ ngoại giao tốt.
+treaty|n|hiệp ước|📜|The two countries signed a peace treaty.|Hai nước đã ký một hiệp ước hòa bình.
+sanction|n|lệnh trừng phạt|⛔|The UN imposed sanctions on the country.|Liên Hợp Quốc đã áp đặt lệnh trừng phạt lên quốc gia đó.
+sovereignty|n|chủ quyền|🏳️|The country defended its sovereignty.|Quốc gia đã bảo vệ chủ quyền của mình.
+nation|n|quốc gia, dân tộc|🌏|The whole nation celebrated the victory.|Cả nước đã ăn mừng chiến thắng.
+federal|adj|thuộc liên bang|🇺🇸|The USA has a federal government.|Hoa Kỳ có chính phủ liên bang.
+opposition|n|phe đối lập; sự phản đối|🙅|The opposition criticised the plan.|Phe đối lập chỉ trích kế hoạch.
+majority|n|đa số|👥|The majority of people agreed.|Đa số mọi người đã đồng ý.
+debate|n|cuộc tranh luận|🎤|There was a heated debate on TV.|Đã có một cuộc tranh luận sôi nổi trên TV.
+propose|v|đề xuất|💡|The minister proposed a new tax.|Bộ trưởng đã đề xuất một loại thuế mới.
+implement|v|thực hiện, triển khai|⚙️|The new policy will be implemented next year.|Chính sách mới sẽ được triển khai vào năm tới.
+enforce|v|thi hành|👮|The police must enforce the law.|Cảnh sát phải thi hành pháp luật.
+govern|v|cai trị, quản lý|🏛️|The country is governed by a president.|Đất nước được điều hành bởi một tổng thống.
+represent|v|đại diện|🙋|She represents our town in parliament.|Bà ấy đại diện cho thị trấn chúng tôi ở quốc hội.
+elect|v|bầu chọn|🗳️|He was elected mayor last year.|Ông ấy được bầu làm thị trưởng năm ngoái.
+mayor|n|thị trưởng|🎖️|The mayor opened the new bridge.|Thị trưởng đã khánh thành cây cầu mới.
+corruption|n|sự tham nhũng|💰|The government is fighting corruption.|Chính phủ đang chống tham nhũng.
+bureaucracy|n|bộ máy quan liêu|📑|There is too much bureaucracy.|Có quá nhiều thủ tục quan liêu.
+civil rights|n|quyền công dân|✊|Martin Luther King fought for civil rights.|Martin Luther King đấu tranh cho quyền công dân.
+human rights|n|nhân quyền|🕊️|Human rights must be respected.|Nhân quyền phải được tôn trọng.
+refugee|n|người tị nạn|⛺|Thousands of refugees crossed the border.|Hàng nghìn người tị nạn đã vượt biên giới.
+border|n|biên giới|🛂|We crossed the border into Laos.|Chúng tôi vượt biên giới sang Lào.
+territory|n|lãnh thổ|🗺️|The island is part of our territory.|Hòn đảo là một phần lãnh thổ của chúng ta.
+ceasefire|n|lệnh ngừng bắn|🏳️|Both sides agreed to a ceasefire.|Hai bên đã đồng ý ngừng bắn.
+alliance|n|liên minh|🤝|The countries formed an alliance.|Các quốc gia đã thành lập một liên minh.
+negotiation|n|cuộc đàm phán|🗣️|Negotiations will continue tomorrow.|Các cuộc đàm phán sẽ tiếp tục vào ngày mai.
+compromise|n|sự thỏa hiệp|🤝|Both sides reached a compromise.|Cả hai bên đã đạt được thỏa hiệp.
+public opinion|n|dư luận|💬|Public opinion is against the new law.|Dư luận phản đối luật mới.
+controversial|adj|gây tranh cãi|🔥|It is a controversial decision.|Đó là một quyết định gây tranh cãi.
+radical|adj|cấp tiến, triệt để|⚡|They want radical changes.|Họ muốn những thay đổi triệt để.
+conservative|adj|bảo thủ|🧱|My grandparents have conservative views.|Ông bà tôi có quan điểm bảo thủ.
+liberal|adj|tự do, phóng khoáng|🕊️|She has liberal ideas about education.|Cô ấy có tư tưởng phóng khoáng về giáo dục.
+welfare state|n|nhà nước phúc lợi|🏥|Sweden is a welfare state.|Thụy Điển là một nhà nước phúc lợi.
+governance|n|sự quản trị|🏛️|Good governance reduces corruption.|Quản trị tốt làm giảm tham nhũng.
+
+@ psychology | Tâm lý & tư duy | 🧠
+psychology|n|tâm lý học|🧠|She is studying psychology.|Cô ấy đang học tâm lý học.
+psychologist|n|nhà tâm lý học|🧑‍⚕️|He went to see a psychologist.|Anh ấy đã đi gặp nhà tâm lý học.
+behaviour|n|hành vi|🧍|His behaviour in class is excellent.|Hành vi của cậu ấy trong lớp rất tốt.
+behave|v|cư xử|🙇|Please behave yourself.|Hãy cư xử đúng mực.
+perception|n|nhận thức, cảm nhận|👁️|Our perception of time changes with age.|Cảm nhận về thời gian thay đổi theo tuổi tác.
+perceive|v|nhận thức, cảm nhận|🔍|How do you perceive the problem?|Bạn nhìn nhận vấn đề như thế nào?
+cognitive|adj|thuộc nhận thức|🧩|Reading develops cognitive skills.|Đọc sách phát triển kỹ năng nhận thức.
+conscious|adj|có ý thức; tỉnh táo|💡|She is conscious of her weaknesses.|Cô ấy ý thức được điểm yếu của mình.
+unconscious|adj|bất tỉnh; vô thức|😵|He was unconscious after the accident.|Anh ấy bất tỉnh sau tai nạn.
+subconscious|adj|tiềm thức|🌙|Dreams come from the subconscious mind.|Giấc mơ đến từ tiềm thức.
+instinct|n|bản năng|🐾|Trust your instincts.|Hãy tin vào bản năng của bạn.
+intuition|n|trực giác|✨|My intuition told me something was wrong.|Trực giác mách bảo tôi có điều gì đó không ổn.
+motivate|v|thúc đẩy, tạo động lực|🔥|Good teachers motivate their students.|Giáo viên giỏi tạo động lực cho học sinh.
+trait|n|đặc điểm, nét tính cách|🧬|Honesty is her best trait.|Trung thực là nét tính cách tốt nhất của cô ấy.
+temper|n|tính khí, cơn giận|😤|He has a bad temper.|Anh ấy nóng tính.
+self-esteem|n|lòng tự trọng|🌟|Praise can improve a child's self-esteem.|Lời khen có thể nâng cao lòng tự trọng của trẻ.|/ˌself ɪˈstiːm/
+resilience|n|khả năng phục hồi, sức bền bỉ|🌱|She showed great resilience after the accident.|Cô ấy thể hiện sự kiên cường sau tai nạn.
+empathy|n|sự đồng cảm|🫂|Good doctors show empathy to patients.|Bác sĩ giỏi thể hiện sự đồng cảm với bệnh nhân.
+compassion|n|lòng trắc ẩn|💗|She treated the old man with compassion.|Cô ấy đối xử với cụ già bằng lòng trắc ẩn.
+mindset|n|tư duy, lối suy nghĩ|🧠|Having a positive mindset helps you succeed.|Có tư duy tích cực giúp bạn thành công.
+bias|n|thành kiến, thiên vị|⚖️|We all have some bias.|Tất cả chúng ta đều có chút thiên kiến.
+prejudice|n|định kiến|🚫|We must fight against racial prejudice.|Chúng ta phải chống lại định kiến chủng tộc.
+stereotype|n|khuôn mẫu, định kiến|🏷️|It's a stereotype that all scientists are boring.|Cho rằng nhà khoa học nào cũng nhàm chán là định kiến.
+phobia|n|nỗi ám ảnh sợ hãi|😱|She has a phobia of spiders.|Cô ấy mắc chứng sợ nhện.
+trauma|n|chấn thương tâm lý|💔|The war caused deep trauma.|Chiến tranh gây ra chấn thương tâm lý sâu sắc.
+therapy|n|liệu pháp|🛋️|He is having therapy for depression.|Anh ấy đang điều trị trầm cảm.
+cope with|phr|đối phó với|🛟|How do you cope with stress?|Bạn đối phó với căng thẳng thế nào?
+overcome|v|vượt qua|🧗|She overcame her fear of flying.|Cô ấy đã vượt qua nỗi sợ đi máy bay.
+manipulate|v|thao túng|🎭|He tried to manipulate his friends.|Anh ta cố thao túng bạn bè.
+influence|v|ảnh hưởng|🌊|Parents influence their children's choices.|Cha mẹ ảnh hưởng đến lựa chọn của con cái.
+reflect|v|suy ngẫm; phản ánh|🪞|Take time to reflect on your mistakes.|Hãy dành thời gian suy ngẫm về những sai lầm.
+interpret|v|diễn giải|🗨️|How do you interpret this dream?|Bạn diễn giải giấc mơ này thế nào?
+rational|adj|hợp lý, lý trí|🧮|Try to make a rational decision.|Hãy cố gắng đưa ra quyết định lý trí.
+irrational|adj|phi lý|🌀|His fear is completely irrational.|Nỗi sợ của anh ấy hoàn toàn vô lý.
+introvert|n|người hướng nội|📚|As an introvert, I enjoy time alone.|Là người hướng nội, tôi thích thời gian ở một mình.
+extrovert|n|người hướng ngoại|🎉|Extroverts love parties.|Người hướng ngoại thích tiệc tùng.
+impulsive|adj|bốc đồng|⚡|Don't make impulsive decisions.|Đừng đưa ra quyết định bốc đồng.
+stubborn|adj|bướng bỉnh|🐐|He is too stubborn to change his mind.|Anh ấy quá bướng bỉnh để thay đổi ý định.
+mature|adj|trưởng thành, chín chắn|🧑|She is very mature for her age.|Cô ấy rất chín chắn so với tuổi.
+naive|adj|ngây thơ|🐣|It was naive of me to believe him.|Tôi thật ngây thơ khi tin anh ta.
+arrogant|adj|kiêu ngạo|😤|He is arrogant and rude.|Anh ta kiêu ngạo và thô lỗ.
+modest|adj|khiêm tốn|🙇|She is very modest about her success.|Cô ấy rất khiêm tốn về thành công của mình.
+considerate|adj|chu đáo, ân cần|🤲|It was considerate of you to call.|Bạn thật chu đáo khi gọi điện.
+vulnerable|adj|dễ bị tổn thương|🥀|Children are vulnerable to infection.|Trẻ em dễ bị nhiễm trùng.
+well-balanced|adj|cân bằng, điềm đạm|⚖️|She is a well-balanced person.|Cô ấy là một người điềm đạm.|/ˌwelˈbælənst/
+willpower|n|ý chí|💪|It takes willpower to stop smoking.|Cần ý chí để bỏ thuốc lá.
+procrastinate|v|trì hoãn|⏰|Stop procrastinating and start your essay.|Đừng trì hoãn nữa và bắt đầu viết bài luận đi.
+
+@ academic | Học thuật & nghiên cứu | 📚
+academic|adj|thuộc học thuật|🎓|She has excellent academic results.|Cô ấy có kết quả học tập xuất sắc.
+hypothesis|n|giả thuyết|🧪|The experiment supported the hypothesis.|Thí nghiệm đã ủng hộ giả thuyết.
+thesis|n|luận văn, luận án|📕|He is writing his thesis on climate change.|Anh ấy đang viết luận văn về biến đổi khí hậu.
+dissertation|n|luận văn|📗|My dissertation is 20,000 words long.|Luận văn của tôi dài 20.000 từ.
+survey|n|cuộc khảo sát|📋|We carried out a survey of 500 students.|Chúng tôi đã khảo sát 500 sinh viên.
+sample|n|mẫu|🧫|They took a blood sample.|Họ đã lấy mẫu máu.
+statistics|n|số liệu thống kê|📊|Statistics show that crime is falling.|Số liệu thống kê cho thấy tội phạm đang giảm.
+analysis|n|sự phân tích|🔬|The analysis took three months.|Việc phân tích mất ba tháng.
+conclusion|n|kết luận|🏁|What is your conclusion?|Kết luận của bạn là gì?
+findings|n|kết quả nghiên cứu|🔎|The findings were published last week.|Kết quả nghiên cứu đã được công bố tuần trước.
+reference|n|tài liệu tham khảo|📚|Include a list of references at the end.|Hãy thêm danh sách tài liệu tham khảo ở cuối.
+citation|n|trích dẫn|❝|Every citation must include the author's name.|Mỗi trích dẫn phải có tên tác giả.
+quote|v|trích dẫn|💬|He quoted a famous poet.|Ông ấy đã trích dẫn một nhà thơ nổi tiếng.
+plagiarism|n|đạo văn|🚫|Plagiarism is a serious offence.|Đạo văn là một vi phạm nghiêm trọng.
+criteria|n|tiêu chí|✅|What are the criteria for the scholarship?|Tiêu chí của học bổng là gì?
+framework|n|khung, cơ cấu|🧱|We need a clear framework for the project.|Chúng ta cần một khung rõ ràng cho dự án.
+concept|n|khái niệm|💡|The concept is hard to understand.|Khái niệm này khó hiểu.
+definition|n|định nghĩa|📖|Look up the definition in a dictionary.|Tra định nghĩa trong từ điển.
+variable|n|biến số|🔣|There are many variables in this experiment.|Có nhiều biến số trong thí nghiệm này.
+correlation|n|sự tương quan|📈|There is a correlation between sleep and grades.|Có sự tương quan giữa giấc ngủ và điểm số.
+assess|v|đánh giá|📝|Teachers assess students' progress.|Giáo viên đánh giá sự tiến bộ của học sinh.
+assessment|n|sự đánh giá|📋|The final assessment is an exam.|Bài đánh giá cuối kỳ là một bài thi.
+evaluate|v|đánh giá|⚖️|We need to evaluate the results.|Chúng ta cần đánh giá kết quả.
+examine|v|xem xét kỹ, kiểm tra|🔍|The doctor examined my throat.|Bác sĩ đã khám họng cho tôi.
+demonstrate|v|chứng minh, trình bày|👩‍🏫|The teacher demonstrated the experiment.|Giáo viên đã trình bày thí nghiệm.
+illustrate|v|minh họa|🖼️|This example illustrates the problem.|Ví dụ này minh họa vấn đề.
+summarise|v|tóm tắt|📝|Summarise the article in 100 words.|Tóm tắt bài báo trong 100 từ.
+outline|n|dàn ý|🗒️|Write an outline before your essay.|Viết dàn ý trước khi làm bài luận.
+justify|v|biện minh, chứng minh là đúng|⚖️|How can you justify the cost?|Bạn có thể biện minh cho chi phí đó thế nào?
+emphasise|v|nhấn mạnh|❗|The teacher emphasised the importance of reading.|Giáo viên nhấn mạnh tầm quan trọng của việc đọc.
+highlight|v|làm nổi bật|🖍️|The report highlights several problems.|Bản báo cáo nêu bật một số vấn đề.
+indicate|v|chỉ ra, cho thấy|👉|Research indicates that exercise improves memory.|Nghiên cứu chỉ ra rằng tập thể dục cải thiện trí nhớ.
+contribute|v|đóng góp|🤲|Everyone contributed to the project.|Mọi người đều đóng góp cho dự án.
+derive|v|bắt nguồn, thu được|🌱|Many English words derive from Latin.|Nhiều từ tiếng Anh bắt nguồn từ tiếng La-tinh.
+theoretical|adj|thuộc lý thuyết|📐|The course is too theoretical.|Khóa học quá nặng về lý thuyết.
+empirical|adj|dựa trên kinh nghiệm thực tế|🔬|There is little empirical evidence.|Có rất ít bằng chứng thực nghiệm.
+objective|adj|khách quan|⚖️|Try to be objective.|Hãy cố gắng khách quan.
+subjective|adj|chủ quan|💭|Beauty is subjective.|Cái đẹp mang tính chủ quan.
+valid|adj|hợp lệ; có cơ sở|✔️|Your passport is valid for ten years.|Hộ chiếu của bạn có giá trị mười năm.
+comprehensive|adj|toàn diện|📚|This is a comprehensive guide.|Đây là một cẩm nang toàn diện.
+consistent|adj|nhất quán|📏|Your results are consistent.|Kết quả của bạn nhất quán.
+specific|adj|cụ thể|🎯|Can you give a specific example?|Bạn có thể đưa ra một ví dụ cụ thể không?
+fundamental|adj|cơ bản, nền tảng|🧱|There is a fundamental difference.|Có một sự khác biệt cơ bản.
+scholar|n|học giả|🧑‍🎓|He is a respected scholar of history.|Ông ấy là một học giả lịch sử được kính trọng.
+methodology|n|phương pháp luận|🧭|The methodology of the study is clear.|Phương pháp luận của nghiên cứu rất rõ ràng.
+seminar|n|hội thảo chuyên đề|🗣️|I have a seminar every Thursday.|Tôi có buổi hội thảo mỗi thứ Năm.
+peer|n|bạn đồng trang lứa|👥|Teenagers are influenced by their peers.|Thanh thiếu niên bị ảnh hưởng bởi bạn bè đồng trang lứa.
+
+@ medicine | Y học | 🩺
+diagnosis|n|sự chẩn đoán|🩺|The doctor made a quick diagnosis.|Bác sĩ đã chẩn đoán nhanh.
+diagnose|v|chẩn đoán|🩻|She was diagnosed with diabetes.|Cô ấy được chẩn đoán mắc bệnh tiểu đường.
+chronic|adj|mãn tính|⏳|He suffers from chronic back pain.|Anh ấy bị đau lưng mãn tính.
+acute|adj|cấp tính; sâu sắc|⚡|She has acute pain in her stomach.|Cô ấy bị đau bụng cấp tính.
+epidemic|n|dịch bệnh|🦠|There is a flu epidemic in the city.|Có dịch cúm trong thành phố.
+pandemic|n|đại dịch|🌍|The pandemic changed the way we live.|Đại dịch đã thay đổi cách chúng ta sống.
+contagious|adj|dễ lây lan|🤧|The disease is highly contagious.|Căn bệnh này rất dễ lây.
+immune|adj|miễn dịch|🛡️|You are immune after the vaccine.|Bạn được miễn dịch sau khi tiêm vắc-xin.
+immune system|n|hệ miễn dịch|🛡️|Sleep strengthens your immune system.|Giấc ngủ giúp tăng cường hệ miễn dịch.
+antibiotic|n|thuốc kháng sinh|💊|The doctor prescribed antibiotics.|Bác sĩ đã kê thuốc kháng sinh.
+dose|n|liều lượng|💊|Take one dose every six hours.|Uống một liều mỗi sáu giờ.
+side effect|n|tác dụng phụ|⚠️|This medicine has no side effects.|Thuốc này không có tác dụng phụ.
+transplant|n|sự cấy ghép|🫀|He needs a heart transplant.|Anh ấy cần ghép tim.
+donor|n|người hiến tặng|🩸|She is a blood donor.|Cô ấy là người hiến máu.
+cancer|n|bệnh ung thư|🎗️|Smoking can cause cancer.|Hút thuốc có thể gây ung thư.
+diabetes|n|bệnh tiểu đường|🩸|Diabetes is linked to diet.|Bệnh tiểu đường liên quan đến chế độ ăn.
+stroke|n|đột quỵ|🧠|He had a stroke last year.|Ông ấy bị đột quỵ năm ngoái.
+heart attack|n|cơn đau tim|💔|He had a heart attack at work.|Ông ấy bị đau tim tại nơi làm việc.
+obese|adj|béo phì|⚖️|Many children are obese.|Nhiều trẻ em bị béo phì.
+disorder|n|chứng rối loạn|🌀|She has an eating disorder.|Cô ấy mắc chứng rối loạn ăn uống.
+syndrome|n|hội chứng|🧬|Down syndrome is a genetic condition.|Hội chứng Down là một tình trạng di truyền.
+genetic|adj|thuộc di truyền|🧬|The disease is genetic.|Căn bệnh này mang tính di truyền.
+inherit|v|thừa hưởng, di truyền|👪|She inherited her mother's eyes.|Cô ấy thừa hưởng đôi mắt của mẹ.
+recovery|n|sự hồi phục|📈|He made a full recovery.|Anh ấy đã hồi phục hoàn toàn.
+rehabilitation|n|sự phục hồi chức năng|🦽|He is in rehabilitation after the accident.|Anh ấy đang phục hồi chức năng sau tai nạn.
+ward|n|khu bệnh, phòng bệnh|🛏️|She is in the children's ward.|Cô bé đang ở khoa nhi.
+surgeon|n|bác sĩ phẫu thuật|🧑‍⚕️|The surgeon operated on his heart.|Bác sĩ phẫu thuật đã mổ tim cho ông ấy.
+specialist|n|bác sĩ chuyên khoa; chuyên gia|👨‍⚕️|You should see a skin specialist.|Bạn nên gặp bác sĩ chuyên khoa da liễu.
+consultation|n|sự tư vấn, buổi khám|🗨️|The consultation costs 300,000 dong.|Buổi khám có giá 300.000 đồng.
+medical|adj|thuộc y tế|🏥|She needs medical help.|Cô ấy cần trợ giúp y tế.
+clinical|adj|thuộc lâm sàng|🔬|The drug is in clinical trials.|Thuốc đang trong giai đoạn thử nghiệm lâm sàng.
+remedy|n|phương thuốc|🌿|Honey is a natural remedy for a cough.|Mật ong là phương thuốc tự nhiên trị ho.
+outbreak|n|sự bùng phát|🦠|There was an outbreak of measles.|Đã có một đợt bùng phát bệnh sởi.
+quarantine|n|sự cách ly|🏠|They were kept in quarantine for two weeks.|Họ bị cách ly trong hai tuần.
+hygiene|n|vệ sinh|🧼|Good hygiene prevents disease.|Vệ sinh tốt giúp ngăn ngừa bệnh tật.
+sanitation|n|hệ thống vệ sinh|🚰|Poor sanitation causes disease.|Hệ thống vệ sinh kém gây ra bệnh tật.
+nutrient|n|chất dinh dưỡng|🥦|Vegetables contain many nutrients.|Rau chứa nhiều chất dinh dưỡng.
+deficiency|n|sự thiếu hụt|📉|Vitamin D deficiency is common.|Thiếu vitamin D khá phổ biến.
+fatigue|n|sự mệt mỏi|😩|Fatigue is a common symptom.|Mệt mỏi là một triệu chứng thường gặp.
+insomnia|n|chứng mất ngủ|🌙|She suffers from insomnia.|Cô ấy bị chứng mất ngủ.
+painkiller|n|thuốc giảm đau|💊|Take a painkiller for your headache.|Uống thuốc giảm đau để trị đau đầu.
+swollen|adj|bị sưng|🦶|My ankle is swollen.|Mắt cá chân tôi bị sưng.
+wound|n|vết thương|🩹|Clean the wound carefully.|Làm sạch vết thương cẩn thận.
+bruise|n|vết bầm tím|🟣|She has a bruise on her arm.|Cô ấy có một vết bầm trên cánh tay.
+fracture|n|chỗ gãy xương|🦴|The x-ray showed a fracture.|Phim X-quang cho thấy có chỗ gãy xương.
+life expectancy|n|tuổi thọ trung bình|📈|Life expectancy in Japan is very high.|Tuổi thọ trung bình ở Nhật rất cao.
+healthcare|n|chăm sóc sức khỏe|🏥|Everyone should have access to healthcare.|Mọi người đều nên được tiếp cận dịch vụ y tế.
+
+@ innovation | Công nghệ & đổi mới | 🚀
+algorithm|n|thuật toán|🧮|The app uses a smart algorithm.|Ứng dụng sử dụng một thuật toán thông minh.
+automation|n|sự tự động hóa|🤖|Automation will replace many jobs.|Tự động hóa sẽ thay thế nhiều công việc.
+breakthrough|n|bước đột phá|💥|Scientists made a major breakthrough.|Các nhà khoa học đã có một bước đột phá lớn.
+cutting-edge|adj|tiên tiến nhất|🔪|The company uses cutting-edge technology.|Công ty sử dụng công nghệ tiên tiến nhất.|/ˌkʌtɪŋ ˈedʒ/
+obsolete|adj|lỗi thời|📼|This technology is now obsolete.|Công nghệ này nay đã lỗi thời.
+upgrade|v|nâng cấp|⬆️|I need to upgrade my computer.|Tôi cần nâng cấp máy tính.
+compatible|adj|tương thích|🔌|This app is compatible with all phones.|Ứng dụng này tương thích với mọi điện thoại.
+interface|n|giao diện|🖥️|The interface is easy to use.|Giao diện dễ sử dụng.
+user-friendly|adj|thân thiện với người dùng|👍|The website is very user-friendly.|Trang web rất thân thiện với người dùng.|/ˌjuːzər ˈfrendli/
+database|n|cơ sở dữ liệu|🗄️|All customer details are stored in a database.|Mọi thông tin khách hàng được lưu trong cơ sở dữ liệu.
+network|n|mạng lưới|🕸️|The company has a large network of shops.|Công ty có một mạng lưới cửa hàng lớn.
+cyber security|n|an ninh mạng|🔐|Cyber security is a growing concern.|An ninh mạng là mối quan tâm ngày càng tăng.
+encryption|n|sự mã hóa|🔒|Encryption keeps your data safe.|Mã hóa giữ an toàn cho dữ liệu của bạn.
+firewall|n|tường lửa|🧱|The firewall blocks dangerous websites.|Tường lửa chặn các trang web nguy hiểm.
+virtual|adj|ảo|🥽|We had a virtual meeting.|Chúng tôi đã có một cuộc họp trực tuyến.
+virtual reality|n|thực tế ảo|🥽|Virtual reality is used in training.|Thực tế ảo được dùng trong đào tạo.
+digital transformation|n|chuyển đổi số|🔄|Many companies are going through digital transformation.|Nhiều công ty đang chuyển đổi số.
+cloud computing|n|điện toán đám mây|☁️|Cloud computing lets you access files anywhere.|Điện toán đám mây cho phép bạn truy cập tệp ở bất cứ đâu.
+storage|n|bộ nhớ, sự lưu trữ|💾|My phone has 128GB of storage.|Điện thoại của tôi có 128GB bộ nhớ.
+bandwidth|n|băng thông|📶|Video calls need a lot of bandwidth.|Gọi video cần nhiều băng thông.
+gadget|n|đồ dùng công nghệ nhỏ|📟|He loves new gadgets.|Anh ấy thích những món đồ công nghệ mới.
+prototype|n|nguyên mẫu|🧩|They built a prototype of the new car.|Họ đã chế tạo nguyên mẫu của chiếc xe mới.
+patent|n|bằng sáng chế|📜|He holds a patent for his invention.|Ông ấy có bằng sáng chế cho phát minh của mình.
+pioneer|n|người tiên phong|🧭|She was a pioneer in computer science.|Bà ấy là người tiên phong trong ngành khoa học máy tính.
+revolutionise|v|cách mạng hóa|🔄|The internet revolutionised communication.|Internet đã cách mạng hóa việc giao tiếp.
+innovative|adj|có tính đổi mới|💡|It's a very innovative design.|Đó là một thiết kế rất sáng tạo.
+sophisticated|adj|tinh vi, phức tạp|🧠|This is a sophisticated system.|Đây là một hệ thống tinh vi.
+efficiency|n|hiệu suất|⚙️|The new machine improves efficiency.|Máy mới cải thiện hiệu suất.
+optimise|v|tối ưu hóa|📈|We need to optimise our website.|Chúng ta cần tối ưu hóa trang web.
+malfunction|n|sự trục trặc|⚠️|A technical malfunction delayed the flight.|Một trục trặc kỹ thuật làm chuyến bay bị hoãn.
+glitch|n|lỗi nhỏ, trục trặc|🐞|There was a glitch in the system.|Có một lỗi nhỏ trong hệ thống.
+troubleshoot|v|khắc phục sự cố|🔧|He can troubleshoot most computer problems.|Anh ấy có thể khắc phục hầu hết các sự cố máy tính.
+wireless|adj|không dây|📶|I bought wireless headphones.|Tôi đã mua tai nghe không dây.
+portable|adj|có thể mang theo|🎒|This is a portable speaker.|Đây là một chiếc loa di động.
+biotechnology|n|công nghệ sinh học|🧬|Biotechnology is changing medicine.|Công nghệ sinh học đang thay đổi y học.
+nanotechnology|n|công nghệ nano|🔬|Nanotechnology is used in many products.|Công nghệ nano được dùng trong nhiều sản phẩm.
+drone|n|máy bay không người lái|🛸|The drone took photos of the city.|Máy bay không người lái đã chụp ảnh thành phố.
+self-driving|adj|tự lái|🚗|Self-driving cars are being tested.|Ô tô tự lái đang được thử nghiệm.|/ˌself ˈdraɪvɪŋ/
+sensor|n|cảm biến|📡|The light has a motion sensor.|Đèn có cảm biến chuyển động.
+simulation|n|sự mô phỏng|🖥️|Pilots train using flight simulations.|Phi công tập luyện bằng mô phỏng bay.
+surveillance|n|sự giám sát|📹|There are surveillance cameras everywhere.|Có camera giám sát ở khắp nơi.
+data breach|n|vụ rò rỉ dữ liệu|🔓|The data breach affected millions of users.|Vụ rò rỉ dữ liệu ảnh hưởng đến hàng triệu người dùng.
+digital literacy|n|năng lực số|💻|Digital literacy is an essential skill.|Năng lực số là một kỹ năng thiết yếu.
+e-commerce|n|thương mại điện tử|🛒|E-commerce is growing fast in Vietnam.|Thương mại điện tử đang phát triển nhanh ở Việt Nam.|/ˈiː kɑːmɜːrs/
+tech-savvy|adj|am hiểu công nghệ|🧑‍💻|Young people are very tech-savvy.|Người trẻ rất am hiểu công nghệ.|/ˈtek sævi/
+on-demand|adj|theo yêu cầu|▶️|We watch films on on-demand services.|Chúng tôi xem phim trên các dịch vụ theo yêu cầu.|/ˌɑːn dɪˈmænd/
+accessible|adj|có thể tiếp cận|♿|The building is accessible to wheelchair users.|Tòa nhà có lối đi cho người dùng xe lăn.
+
+@ justice | Pháp luật & công lý | ⚖️
+prosecute|v|truy tố|⚖️|Trespassers will be prosecuted.|Người xâm phạm sẽ bị truy tố.
+prosecutor|n|công tố viên|👩‍⚖️|The prosecutor presented the evidence.|Công tố viên đã trình bày bằng chứng.
+defendant|n|bị cáo|🧑‍⚖️|The defendant denied the charges.|Bị cáo phủ nhận các cáo buộc.
+plaintiff|n|nguyên đơn|📝|The plaintiff asked for compensation.|Nguyên đơn yêu cầu bồi thường.
+jury|n|bồi thẩm đoàn|👥|The jury found him not guilty.|Bồi thẩm đoàn tuyên anh ta vô tội.
+verdict|n|phán quyết|🔨|The jury reached a verdict.|Bồi thẩm đoàn đã đưa ra phán quyết.
+imprisonment|n|sự bỏ tù|⛓️|He faces life imprisonment.|Anh ta đối mặt với án tù chung thân.
+allegation|n|lời cáo buộc|📜|He denied all the allegations.|Anh ta phủ nhận mọi cáo buộc.
+accuse|v|cáo buộc|👉|She accused him of lying.|Cô ấy buộc tội anh ta nói dối.
+convict|v|kết án|⛓️|He was convicted of murder.|Anh ta bị kết án giết người.
+acquit|v|tuyên trắng án|🕊️|The court acquitted her.|Tòa án đã tuyên trắng án cho cô ấy.
+appeal|v|kháng cáo; kêu gọi|📣|He will appeal against the decision.|Anh ta sẽ kháng cáo quyết định.
+testify|v|làm chứng|🗣️|She testified in court.|Cô ấy đã làm chứng trước tòa.
+alibi|n|chứng cứ ngoại phạm|🕰️|He has a strong alibi.|Anh ta có chứng cứ ngoại phạm vững chắc.
+offence|n|sự vi phạm, tội|🚫|Drink-driving is a serious offence.|Lái xe khi say rượu là một tội nghiêm trọng.|/əˈfens/
+offender|n|người phạm tội|🦹|Young offenders need a second chance.|Những người phạm tội trẻ tuổi cần cơ hội thứ hai.
+penalty|n|hình phạt|🟥|The penalty for theft is prison.|Hình phạt cho tội trộm cắp là ngồi tù.
+compensation|n|tiền bồi thường|💰|The victims received compensation.|Các nạn nhân đã nhận được tiền bồi thường.
+lawsuit|n|vụ kiện|📁|She filed a lawsuit against the company.|Cô ấy đã đệ đơn kiện công ty.
+sue|v|kiện|⚖️|He sued the newspaper.|Ông ấy đã kiện tờ báo.
+legal system|n|hệ thống pháp luật|🏛️|The legal system needs reform.|Hệ thống pháp luật cần cải cách.
+law enforcement|n|cơ quan thực thi pháp luật|👮|Law enforcement agencies work together.|Các cơ quan thực thi pháp luật phối hợp với nhau.
+custody|n|sự giam giữ; quyền nuôi con|🔒|The suspect is in police custody.|Nghi phạm đang bị cảnh sát tạm giữ.
+bail|n|tiền bảo lãnh|💵|He was released on bail.|Anh ta được tại ngoại nhờ tiền bảo lãnh.
+parole|n|sự tha tù có điều kiện|🚪|He was released on parole.|Anh ta được tha tù có điều kiện.
+crime rate|n|tỷ lệ tội phạm|📊|The crime rate has fallen.|Tỷ lệ tội phạm đã giảm.
+deter|v|răn đe, ngăn chặn|🛑|Cameras deter thieves.|Camera giúp răn đe kẻ trộm.
+deterrent|n|biện pháp răn đe|🚨|Heavy fines act as a deterrent.|Mức phạt nặng có tác dụng răn đe.
+vandalism|n|hành vi phá hoại|🖌️|Vandalism is a problem in the park.|Phá hoại tài sản là một vấn đề ở công viên.
+smuggle|v|buôn lậu|📦|They tried to smuggle drugs into the country.|Họ đã cố buôn lậu ma túy vào trong nước.
+bribe|n|tiền hối lộ|💸|The official accepted a bribe.|Viên chức đã nhận hối lộ.
+corrupt|adj|tham nhũng|💰|The corrupt officials were arrested.|Các quan chức tham nhũng đã bị bắt.
+cybercrime|n|tội phạm mạng|💻|Cybercrime is increasing.|Tội phạm mạng đang gia tăng.|/ˈsaɪbərkraɪm/
+identity theft|n|đánh cắp danh tính|🪪|Identity theft can ruin your credit.|Đánh cắp danh tính có thể hủy hoại uy tín tín dụng của bạn.
+scam|n|trò lừa đảo|🎣|Don't fall for online scams.|Đừng mắc bẫy lừa đảo trên mạng.
+harassment|n|sự quấy rối|🚫|Harassment at work is illegal.|Quấy rối nơi làm việc là bất hợp pháp.
+abuse|n|sự lạm dụng, ngược đãi|⚠️|Child abuse is a serious crime.|Bạo hành trẻ em là một tội ác nghiêm trọng.
+assault|n|sự hành hung|👊|He was arrested for assault.|Anh ta bị bắt vì tội hành hung.
+legitimate|adj|hợp pháp, chính đáng|✅|Is this a legitimate business?|Đây có phải là một doanh nghiệp hợp pháp không?
+liable|adj|chịu trách nhiệm pháp lý|📜|The company is liable for the damage.|Công ty phải chịu trách nhiệm về thiệt hại.
+breach|n|sự vi phạm|⛔|This is a breach of contract.|Đây là một sự vi phạm hợp đồng.
+comply|v|tuân thủ|🫡|All companies must comply with the law.|Mọi công ty phải tuân thủ pháp luật.
+ban|n|lệnh cấm|🚫|There is a ban on smoking in restaurants.|Có lệnh cấm hút thuốc trong nhà hàng.
+prohibit|v|cấm|⛔|Smoking is prohibited here.|Cấm hút thuốc ở đây.
+rehabilitate|v|cải tạo, phục hồi|🌱|Prisons should rehabilitate offenders.|Nhà tù nên cải tạo người phạm tội.
+
+@ communication | Truyền thông & lập luận | 🗞️
+journalism|n|nghề báo|📰|She studied journalism at university.|Cô ấy học ngành báo chí ở đại học.
+coverage|n|sự đưa tin|📺|The election got a lot of media coverage.|Cuộc bầu cử được truyền thông đưa tin rất nhiều.
+censorship|n|sự kiểm duyệt|✂️|Censorship limits freedom of the press.|Kiểm duyệt hạn chế tự do báo chí.
+propaganda|n|tuyên truyền|📢|The war was full of propaganda.|Cuộc chiến đầy rẫy tuyên truyền.
+biased|adj|thiên vị|⚖️|The report was biased.|Bản báo cáo mang tính thiên vị.
+objectivity|n|tính khách quan|⚖️|Journalists should aim for objectivity.|Nhà báo nên hướng tới tính khách quan.
+sensational|adj|giật gân|💥|Tabloids publish sensational stories.|Báo lá cải đăng những câu chuyện giật gân.
+tabloid|n|báo lá cải|🗞️|I never read tabloids.|Tôi không bao giờ đọc báo lá cải.
+misinformation|n|thông tin sai lệch|🚫|Misinformation spreads fast online.|Thông tin sai lệch lan nhanh trên mạng.
+credibility|n|sự đáng tin cậy|✅|The newspaper lost its credibility.|Tờ báo đã mất uy tín.
+reputation|n|danh tiếng|🌟|The hotel has a good reputation.|Khách sạn có danh tiếng tốt.
+statement|n|lời tuyên bố|📃|The company issued a statement.|Công ty đã đưa ra một tuyên bố.
+press release|n|thông cáo báo chí|📰|The press release was sent to journalists.|Thông cáo báo chí đã được gửi đến các nhà báo.
+spokesperson|n|người phát ngôn|🎙️|A spokesperson for the police said...|Người phát ngôn của cảnh sát cho biết...
+engagement|n|sự tham gia, tương tác; đính hôn|👥|Student engagement is key to learning.|Sự tham gia của học sinh là chìa khóa của việc học.
+persuasive|adj|có sức thuyết phục|🗣️|She made a persuasive speech.|Cô ấy có bài phát biểu đầy sức thuyết phục.
+rhetoric|n|thuật hùng biện; lời lẽ hoa mỹ|🎤|His speech was full of empty rhetoric.|Bài phát biểu của ông ta đầy lời lẽ sáo rỗng.
+counter-argument|n|lập luận phản bác|↩️|Consider the counter-arguments too.|Hãy cân nhắc cả các lập luận phản bác.|/ˈkaʊntər ˈɑːrɡjəmənt/
+viewpoint|n|quan điểm|👁️|Try to see it from my viewpoint.|Hãy thử nhìn từ quan điểm của tôi.
+perspective|n|góc nhìn|🔭|Travel gives you a new perspective.|Du lịch cho bạn một góc nhìn mới.
+stance|n|lập trường|🧍|What is your stance on this issue?|Lập trường của bạn về vấn đề này là gì?
+assert|v|khẳng định|📣|He asserted that he was innocent.|Anh ta khẳng định mình vô tội.
+acknowledge|v|thừa nhận|🙋|She acknowledged her mistake.|Cô ấy đã thừa nhận sai lầm.
+clarify|v|làm rõ|🔦|Could you clarify what you mean?|Bạn có thể làm rõ ý bạn không?
+elaborate|v|nói rõ thêm|🗨️|Can you elaborate on that point?|Bạn có thể nói rõ hơn về điểm đó không?
+convey|v|truyền đạt|📨|Words can't convey my feelings.|Lời nói không thể truyền tải cảm xúc của tôi.
+imply|v|ngụ ý|🤫|What are you implying?|Bạn đang ngụ ý điều gì?
+infer|v|suy ra|🧩|What can we infer from the data?|Chúng ta có thể suy ra điều gì từ dữ liệu?
+criticise|v|chỉ trích|👎|The plan was criticised by experts.|Kế hoạch bị các chuyên gia chỉ trích.
+criticism|n|lời chỉ trích|🗯️|He can't accept criticism.|Anh ấy không chấp nhận được lời chỉ trích.
+praise|v|khen ngợi|👏|The teacher praised her work.|Giáo viên đã khen ngợi bài làm của cô ấy.
+feedback|n|ý kiến phản hồi|💬|Thanks for your feedback.|Cảm ơn ý kiến phản hồi của bạn.
+eloquent|adj|hùng hồn, lưu loát|🎤|She gave an eloquent speech.|Cô ấy đã có một bài phát biểu hùng hồn.
+articulate|adj|nói năng lưu loát, rõ ràng|🗣️|He is an articulate speaker.|Anh ấy là người nói chuyện lưu loát.
+fluent|adj|trôi chảy|🌊|She is fluent in three languages.|Cô ấy nói trôi chảy ba thứ tiếng.
+fluency|n|sự trôi chảy|💬|Reading improves fluency.|Đọc sách cải thiện sự lưu loát.
+vocabulary|n|từ vựng|🔤|Try to expand your vocabulary.|Hãy cố gắng mở rộng vốn từ vựng.
+grammar|n|ngữ pháp|📐|English grammar is not so difficult.|Ngữ pháp tiếng Anh không quá khó.
+dialect|n|phương ngữ|🗺️|People in this region speak a different dialect.|Người dân vùng này nói một phương ngữ khác.
+jargon|n|biệt ngữ chuyên môn|📟|Avoid using technical jargon.|Tránh sử dụng biệt ngữ kỹ thuật.
+slang|n|tiếng lóng|😎|Teenagers use a lot of slang.|Thanh thiếu niên dùng nhiều tiếng lóng.
+gesture|n|cử chỉ|🤌|She made a friendly gesture.|Cô ấy làm một cử chỉ thân thiện.
+body language|n|ngôn ngữ cơ thể|🧍|Body language tells you a lot about people.|Ngôn ngữ cơ thể cho bạn biết nhiều về con người.
+eye contact|n|giao tiếp bằng mắt|👀|Make eye contact when you speak.|Hãy nhìn vào mắt khi bạn nói.
+rumour|n|tin đồn|🗣️|There is a rumour that he is leaving.|Có tin đồn rằng anh ấy sắp nghỉ việc.|/ˈruːmər/
+anonymous|adj|ẩn danh|🎭|The letter was anonymous.|Lá thư là thư nặc danh.
+transparent|adj|minh bạch; trong suốt|🔍|The process should be transparent.|Quy trình nên minh bạch.
+
+@ management | Quản lý & công sở | 🗂️
+management|n|sự quản lý; ban quản lý|📋|The hotel is under new management.|Khách sạn đang dưới sự quản lý mới.
+executive|n|giám đốc điều hành, cán bộ điều hành|🧑‍💼|She is a senior executive.|Bà ấy là một giám đốc cấp cao.
+CEO|n|tổng giám đốc|👔|The CEO announced the new plan.|Tổng giám đốc đã công bố kế hoạch mới.|/ˌsiː iː ˈoʊ/
+board of directors|n|hội đồng quản trị|🪑|The board of directors meets monthly.|Hội đồng quản trị họp hằng tháng.
+subordinate|n|cấp dưới|👥|She is kind to her subordinates.|Cô ấy tử tế với cấp dưới.
+delegate|v|ủy quyền, giao việc|📤|A good manager knows how to delegate.|Một người quản lý giỏi biết cách giao việc.
+coordinate|v|điều phối|🔀|She coordinates the work of the team.|Cô ấy điều phối công việc của nhóm.
+prioritise|v|ưu tiên|🔝|You need to prioritise your tasks.|Bạn cần sắp xếp thứ tự ưu tiên các nhiệm vụ.
+priority|n|sự ưu tiên|🥇|Safety is our top priority.|An toàn là ưu tiên hàng đầu của chúng tôi.
+objective|n|mục tiêu|🎯|What are the objectives of the meeting?|Mục tiêu của cuộc họp là gì?
+agenda|n|chương trình nghị sự|🗒️|What's on the agenda today?|Chương trình họp hôm nay có những gì?
+minutes|n|biên bản cuộc họp|📝|Who is taking the minutes?|Ai đang ghi biên bản?
+proposal|n|bản đề xuất|📄|They accepted our proposal.|Họ đã chấp nhận đề xuất của chúng tôi.
+feasible|adj|khả thi|✅|Is the plan feasible?|Kế hoạch có khả thi không?
+viable|adj|khả thi, có thể tồn tại|🌱|It is not a viable business.|Đó không phải là một việc kinh doanh khả thi.
+benchmark|n|tiêu chuẩn đối chiếu|📏|This product sets a new benchmark.|Sản phẩm này đặt ra một chuẩn mực mới.
+milestone|n|cột mốc|🏁|Graduating was an important milestone.|Tốt nghiệp là một cột mốc quan trọng.
+evaluation|n|sự đánh giá|📊|The evaluation showed good results.|Việc đánh giá cho thấy kết quả tốt.
+appraisal|n|sự đánh giá|📋|Staff appraisals take place every year.|Việc đánh giá nhân viên diễn ra hằng năm.
+recruitment|n|sự tuyển dụng|📢|Recruitment is difficult at the moment.|Việc tuyển dụng lúc này khá khó khăn.
+dismiss|v|sa thải; gạt bỏ|🚪|He was dismissed for stealing.|Anh ta bị sa thải vì ăn cắp.
+redundant|adj|bị cho thôi việc; thừa|📉|Two hundred workers were made redundant.|Hai trăm công nhân đã bị cắt giảm.
+resignation|n|sự từ chức|✉️|She handed in her resignation.|Cô ấy đã nộp đơn từ chức.
+morale|n|tinh thần|💪|Staff morale is very low.|Tinh thần nhân viên rất thấp.|/məˈræl/
+burnout|n|sự kiệt sức (vì làm việc)|🔥|Long hours can lead to burnout.|Làm việc nhiều giờ có thể dẫn đến kiệt sức.
+payroll|n|bảng lương|🧾|There are 200 people on the payroll.|Có 200 người trong bảng lương.
+remote work|n|làm việc từ xa|🏠|Remote work became popular after 2020.|Làm việc từ xa trở nên phổ biến sau năm 2020.
+workforce|n|lực lượng lao động|👷|Women make up half of the workforce.|Phụ nữ chiếm một nửa lực lượng lao động.
+expertise|n|chuyên môn|🎓|We need someone with technical expertise.|Chúng tôi cần người có chuyên môn kỹ thuật.
+competent|adj|có năng lực|👍|She is a very competent manager.|Cô ấy là một nhà quản lý rất có năng lực.
+proficient|adj|thành thạo|💯|He is proficient in English.|Anh ấy thành thạo tiếng Anh.
+initiative|n|sáng kiến; tính chủ động|💡|She showed great initiative.|Cô ấy thể hiện tính chủ động tuyệt vời.
+accountable|adj|chịu trách nhiệm|📌|Managers are accountable for their team.|Người quản lý phải chịu trách nhiệm về nhóm của mình.
+collaborate|v|cộng tác|🤝|We collaborate with universities.|Chúng tôi cộng tác với các trường đại học.
+collaboration|n|sự cộng tác|🤝|This book is a collaboration between two authors.|Cuốn sách này là sự cộng tác của hai tác giả.
+consensus|n|sự đồng thuận|👍|We reached a consensus.|Chúng tôi đã đạt được sự đồng thuận.
+brainstorm|v|động não, cùng đưa ý tưởng|🧠|Let's brainstorm some ideas.|Chúng ta hãy cùng động não đưa ra ý tưởng.
+extension|n|sự gia hạn; phần mở rộng|⏳|I asked for an extension on my essay.|Tôi xin gia hạn nộp bài luận.
+outcome|n|kết quả|🏁|We are waiting for the outcome of the meeting.|Chúng tôi đang chờ kết quả cuộc họp.
+procedure|n|thủ tục, quy trình|📋|Follow the safety procedure.|Hãy tuân theo quy trình an toàn.
+protocol|n|nghi thức, giao thức|📜|There is a strict protocol for visitors.|Có quy định nghiêm ngặt đối với khách.
+logistics|n|hậu cần|🚚|She works in logistics.|Cô ấy làm trong ngành hậu cần.
+inventory|n|hàng tồn kho|📦|We check the inventory every month.|Chúng tôi kiểm tra hàng tồn kho mỗi tháng.
+stakeholder|n|bên liên quan|👥|All stakeholders were invited.|Tất cả các bên liên quan đều được mời.
+venture|n|dự án kinh doanh mạo hiểm|🚀|It's a risky business venture.|Đó là một dự án kinh doanh rủi ro.
+entrepreneurial|adj|có tinh thần kinh doanh|💡|She has an entrepreneurial spirit.|Cô ấy có tinh thần doanh nhân.
+corporate|adj|thuộc doanh nghiệp|🏢|He works in corporate law.|Anh ấy làm về luật doanh nghiệp.
+
+@ literature | Nghệ thuật & văn học | 📖
+literary|adj|thuộc văn học|📚|She won a literary prize.|Cô ấy đã giành được một giải thưởng văn học.
+narrative|n|câu chuyện, lối kể chuyện|📖|The novel has a complex narrative.|Cuốn tiểu thuyết có lối kể chuyện phức tạp.
+narrator|n|người kể chuyện|🗣️|The narrator is a young boy.|Người kể chuyện là một cậu bé.
+protagonist|n|nhân vật chính|🦸|The protagonist is a young doctor.|Nhân vật chính là một bác sĩ trẻ.
+theme|n|chủ đề|🎨|The main theme of the book is love.|Chủ đề chính của cuốn sách là tình yêu.
+metaphor|n|phép ẩn dụ|🌹|"Life is a journey" is a metaphor.|"Cuộc đời là một chuyến đi" là một phép ẩn dụ.
+symbol|n|biểu tượng|☮️|The dove is a symbol of peace.|Chim bồ câu là biểu tượng của hòa bình.
+symbolic|adj|mang tính biểu tượng|🕊️|The gift was symbolic.|Món quà mang tính biểu tượng.
+tragedy|n|bi kịch|🎭|Romeo and Juliet is a tragedy.|Romeo và Juliet là một vở bi kịch.
+tragic|adj|bi thảm|😢|It was a tragic accident.|Đó là một tai nạn bi thảm.
+biography|n|tiểu sử|📘|I'm reading a biography of Ho Chi Minh.|Tôi đang đọc tiểu sử Hồ Chí Minh.
+autobiography|n|tự truyện|📙|She wrote her autobiography.|Bà ấy đã viết tự truyện.
+memoir|n|hồi ký|📔|The general published his memoirs.|Vị tướng đã xuất bản hồi ký.
+manuscript|n|bản thảo|📜|The manuscript was found in an old box.|Bản thảo được tìm thấy trong một chiếc hộp cũ.
+sequel|n|phần tiếp theo|🎞️|The sequel is better than the first film.|Phần tiếp theo hay hơn phần đầu.
+adaptation|n|sự chuyển thể|🎬|The film is an adaptation of a novel.|Bộ phim được chuyển thể từ một cuốn tiểu thuyết.
+portrait|n|bức chân dung|🖼️|He painted a portrait of his wife.|Ông ấy đã vẽ chân dung vợ mình.
+landscape|n|phong cảnh|🏞️|She paints beautiful landscapes.|Cô ấy vẽ những bức tranh phong cảnh đẹp.
+abstract|adj|trừu tượng|🌀|I don't understand abstract art.|Tôi không hiểu nghệ thuật trừu tượng.
+aesthetic|adj|thuộc thẩm mỹ|🎨|The building has great aesthetic value.|Tòa nhà có giá trị thẩm mỹ lớn.|/esˈθetɪk/
+contemporary|adj|đương đại|🏙️|The museum shows contemporary art.|Bảo tàng trưng bày nghệ thuật đương đại.
+inspiration|n|nguồn cảm hứng|✨|Nature is her inspiration.|Thiên nhiên là nguồn cảm hứng của cô ấy.
+inspire|v|truyền cảm hứng|💡|Her story inspired millions.|Câu chuyện của cô ấy đã truyền cảm hứng cho hàng triệu người.
+imagination|n|trí tưởng tượng|🌈|Children have a lot of imagination.|Trẻ em có trí tưởng tượng phong phú.
+imaginative|adj|giàu trí tưởng tượng|🦄|It's a very imaginative story.|Đó là một câu chuyện rất giàu trí tưởng tượng.
+creativity|n|sự sáng tạo|🎨|Art lessons encourage creativity.|Các giờ mỹ thuật khuyến khích sự sáng tạo.
+craftsmanship|n|tay nghề thủ công|🪵|The table shows fine craftsmanship.|Chiếc bàn thể hiện tay nghề thủ công tinh xảo.
+exhibit|v|trưng bày|🖼️|His paintings are exhibited in Paris.|Tranh của ông ấy được trưng bày ở Paris.
+compose|v|sáng tác (nhạc)|🎼|Mozart composed his first music at five.|Mozart sáng tác bản nhạc đầu tiên khi năm tuổi.
+composer|n|nhà soạn nhạc|🎹|Beethoven was a German composer.|Beethoven là một nhà soạn nhạc người Đức.
+melody|n|giai điệu|🎶|The song has a beautiful melody.|Bài hát có giai điệu đẹp.
+harmony|n|sự hòa hợp; hòa âm|🎵|They live in harmony with nature.|Họ sống hòa hợp với thiên nhiên.
+choreography|n|vũ đạo|💃|The choreography was amazing.|Phần vũ đạo thật tuyệt vời.
+cinematography|n|nghệ thuật quay phim|🎥|The film won an award for cinematography.|Bộ phim đã giành giải quay phim.
+premiere|n|buổi công chiếu|🎟️|We went to the film premiere.|Chúng tôi đã đến buổi công chiếu phim.|/prɪˈmɪr/
+acclaimed|adj|được ca ngợi|🏆|It is a highly acclaimed novel.|Đó là một cuốn tiểu thuyết được đánh giá rất cao.
+renowned|adj|nổi tiếng, lừng danh|🌟|He is a renowned architect.|Ông ấy là một kiến trúc sư lừng danh.
+poetry|n|thơ ca|📜|She loves reading poetry.|Cô ấy thích đọc thơ.
+prose|n|văn xuôi|📃|The book is written in simple prose.|Cuốn sách được viết bằng văn xuôi giản dị.
+verse|n|câu thơ, đoạn thơ|🎶|He learned the first verse by heart.|Cậu ấy đã học thuộc khổ thơ đầu.
+satire|n|sự châm biếm|🃏|The play is a satire on politics.|Vở kịch là một tác phẩm châm biếm chính trị.
+irony|n|sự trớ trêu|🙃|The irony is that he hated cars.|Điều trớ trêu là ông ấy ghét ô tô.
+heritage site|n|khu di sản|🏯|Hue is a UNESCO heritage site.|Huế là khu di sản được UNESCO công nhận.
+curator|n|người phụ trách bảo tàng|🧑‍🏫|The curator explained the paintings.|Người phụ trách giải thích về các bức tranh.
+artefact|n|hiện vật|🏺|The museum has many ancient artefacts.|Bảo tàng có nhiều hiện vật cổ.|/ˈɑːrtɪfækt/
+illustration|n|tranh minh họa|🖍️|The book has beautiful illustrations.|Cuốn sách có những bức tranh minh họa đẹp.
+critique|n|bài phê bình|📝|She wrote a critique of the film.|Cô ấy đã viết một bài phê bình về bộ phim.
+
+@ issues | Vấn đề xã hội | 🌐
+poverty line|n|chuẩn nghèo|📉|Millions live below the poverty line.|Hàng triệu người sống dưới chuẩn nghèo.
+homelessness|n|tình trạng vô gia cư|🏚️|Homelessness is rising in big cities.|Tình trạng vô gia cư đang gia tăng ở các thành phố lớn.
+deprivation|n|sự thiếu thốn|🥀|Children in deprivation need support.|Trẻ em thiếu thốn cần được hỗ trợ.
+exploitation|n|sự bóc lột|⛓️|Child labour is a form of exploitation.|Lao động trẻ em là một hình thức bóc lột.
+child labour|n|lao động trẻ em|🧒|Child labour is illegal.|Lao động trẻ em là bất hợp pháp.
+racism|n|chủ nghĩa phân biệt chủng tộc|✊|We must stand against racism.|Chúng ta phải chống lại phân biệt chủng tộc.
+gender|n|giới tính|⚧️|Discrimination based on gender is illegal.|Phân biệt đối xử dựa trên giới tính là bất hợp pháp.
+diversity|n|sự đa dạng|🌈|The city is known for its cultural diversity.|Thành phố nổi tiếng về sự đa dạng văn hóa.
+inclusion|n|sự hòa nhập|🤝|The school promotes inclusion.|Trường học thúc đẩy sự hòa nhập.
+marginalised|adj|bị gạt ra lề xã hội|🚧|We must help marginalised groups.|Chúng ta phải giúp đỡ các nhóm yếu thế.|/ˈmɑːrdʒɪnəlaɪzd/
+disability|n|khuyết tật|♿|People with disabilities need equal access.|Người khuyết tật cần được tiếp cận bình đẳng.
+ageing population|n|dân số già hóa|👵|Japan has an ageing population.|Nhật Bản có dân số già hóa.|/ˈeɪdʒɪŋ ˌpɑːpjəˈleɪʃən/
+birth rate|n|tỷ lệ sinh|👶|The birth rate is falling.|Tỷ lệ sinh đang giảm.
+migration|n|sự di cư|🧳|Migration from rural to urban areas is increasing.|Di cư từ nông thôn ra thành thị đang tăng.
+urbanisation|n|đô thị hóa|🏙️|Urbanisation brings many problems.|Đô thị hóa mang lại nhiều vấn đề.|/ˌɜːrbənəˈzeɪʃən/
+overpopulation|n|sự quá tải dân số|👥|Overpopulation puts pressure on resources.|Quá tải dân số gây áp lực lên tài nguyên.
+housing|n|nhà ở|🏘️|Affordable housing is hard to find.|Rất khó tìm được nhà ở giá phải chăng.
+affordable|adj|giá cả phải chăng|💲|We need more affordable housing.|Chúng ta cần thêm nhà ở giá rẻ.
+literacy|n|khả năng đọc viết|📖|The literacy rate in Vietnam is high.|Tỷ lệ biết chữ ở Việt Nam cao.
+illiterate|adj|mù chữ|🚫|Many adults in the village were illiterate.|Nhiều người lớn trong làng bị mù chữ.
+dropout|n|người bỏ học|🎒|The school dropout rate is falling.|Tỷ lệ bỏ học đang giảm.
+juvenile|adj|thuộc vị thành niên|🧑|Juvenile crime is increasing.|Tội phạm vị thành niên đang gia tăng.
+domestic violence|n|bạo lực gia đình|🏠|Domestic violence is a serious problem.|Bạo lực gia đình là một vấn đề nghiêm trọng.
+substance abuse|n|lạm dụng chất kích thích|💊|Substance abuse among teenagers is a concern.|Lạm dụng chất kích thích ở thanh thiếu niên là mối lo ngại.
+gambling|n|cờ bạc|🎰|Gambling ruined his life.|Cờ bạc đã hủy hoại cuộc đời anh ta.
+alcoholism|n|chứng nghiện rượu|🍺|Alcoholism destroys families.|Nghiện rượu phá hoại các gia đình.
+welfare system|n|hệ thống phúc lợi|🏛️|The welfare system helps the unemployed.|Hệ thống phúc lợi giúp đỡ người thất nghiệp.
+social security|n|an sinh xã hội|🛡️|He lives on social security.|Ông ấy sống nhờ an sinh xã hội.
+charitable|adj|từ thiện|💝|She does a lot of charitable work.|Bà ấy làm nhiều công việc từ thiện.
+non-profit|adj|phi lợi nhuận|🤲|She works for a non-profit organisation.|Cô ấy làm việc cho một tổ chức phi lợi nhuận.|/ˌnɑːn ˈprɑːfɪt/
+activist|n|nhà hoạt động|📣|She is an environmental activist.|Cô ấy là nhà hoạt động môi trường.
+advocate|v|ủng hộ, tán thành|🗣️|He advocates free education for all.|Ông ấy ủng hộ giáo dục miễn phí cho tất cả.
+empower|v|trao quyền|💪|Education empowers women.|Giáo dục trao quyền cho phụ nữ.
+tackle|v|giải quyết, xử lý|🛠️|We must tackle the problem of pollution.|Chúng ta phải giải quyết vấn đề ô nhiễm.
+address|v|giải quyết, đề cập|📌|The government must address unemployment.|Chính phủ phải giải quyết nạn thất nghiệp.
+alleviate|v|làm giảm bớt|🩹|The new policy will alleviate poverty.|Chính sách mới sẽ giảm bớt nghèo đói.
+eradicate|v|xóa bỏ|🧹|We hope to eradicate the disease.|Chúng tôi hy vọng xóa sổ căn bệnh.
+widespread|adj|lan rộng|🌍|There is widespread concern about the economy.|Có mối lo ngại lan rộng về nền kinh tế.
+pressing|adj|cấp bách|⏰|Climate change is a pressing issue.|Biến đổi khí hậu là một vấn đề cấp bách.
+underprivileged|adj|thiệt thòi|🥀|The charity helps underprivileged children.|Tổ chức từ thiện giúp đỡ trẻ em thiệt thòi.
+cohesion|n|sự gắn kết|🧶|Sport can improve social cohesion.|Thể thao có thể cải thiện sự gắn kết xã hội.
+norm|n|chuẩn mực|📏|Social norms change over time.|Các chuẩn mực xã hội thay đổi theo thời gian.
+taboo|n|điều cấm kỵ|🤐|Mental illness is still a taboo subject.|Bệnh tâm thần vẫn là chủ đề cấm kỵ.
+privilege|n|đặc quyền|👑|Education should be a right, not a privilege.|Giáo dục nên là quyền chứ không phải đặc quyền.
+vulnerable group|n|nhóm dễ bị tổn thương|🫂|The elderly are a vulnerable group.|Người cao tuổi là một nhóm dễ bị tổn thương.
+nuclear family|n|gia đình hạt nhân|👨‍👩‍👧|The nuclear family is becoming more common.|Gia đình hạt nhân đang ngày càng phổ biến.
+extended family|n|đại gia đình|👨‍👩‍👧‍👦|I grew up in an extended family.|Tôi lớn lên trong một đại gia đình.
+
+@ ecology | Môi trường chuyên sâu | 🌿
+ecological|adj|thuộc sinh thái|🌿|The oil spill was an ecological disaster.|Vụ tràn dầu là một thảm họa sinh thái.
+carbon footprint|n|dấu chân các-bon|👣|Flying increases your carbon footprint.|Đi máy bay làm tăng lượng khí thải các-bon của bạn.
+mitigate|v|giảm nhẹ|🩹|Trees help mitigate climate change.|Cây xanh giúp giảm nhẹ biến đổi khí hậu.
+adapt|v|thích nghi|🦎|Animals adapt to their environment.|Động vật thích nghi với môi trường.
+deplete|v|làm cạn kiệt|📉|We are depleting the earth's resources.|Chúng ta đang làm cạn kiệt tài nguyên trái đất.
+depletion|n|sự cạn kiệt|🪫|Ozone depletion is dangerous.|Sự suy giảm tầng ô-zôn rất nguy hiểm.
+ozone layer|n|tầng ô-zôn|🛡️|The ozone layer protects us from the sun.|Tầng ô-zôn bảo vệ chúng ta khỏi ánh nắng mặt trời.
+contaminate|v|làm ô nhiễm|☣️|Chemicals contaminated the water.|Hóa chất đã làm ô nhiễm nguồn nước.
+contamination|n|sự nhiễm bẩn|🧪|There is contamination in the river.|Dòng sông bị nhiễm bẩn.
+pesticide|n|thuốc trừ sâu|🧴|Pesticides harm bees.|Thuốc trừ sâu gây hại cho ong.
+fertiliser|n|phân bón|🌾|Farmers use too much fertiliser.|Nông dân sử dụng quá nhiều phân bón.|/ˈfɜːrtəlaɪzər/
+landfill|n|bãi chôn lấp rác|🗑️|Most plastic ends up in landfill.|Hầu hết nhựa cuối cùng nằm ở bãi rác.
+biodegradable|adj|có thể phân hủy sinh học|🍃|Use biodegradable bags.|Hãy dùng túi có thể phân hủy sinh học.
+disposable|adj|dùng một lần|🥤|Avoid disposable cups.|Tránh dùng cốc dùng một lần.
+single-use|adj|dùng một lần|🥡|The city banned single-use plastics.|Thành phố đã cấm nhựa dùng một lần.|/ˌsɪŋɡəl ˈjuːs/
+erosion|n|sự xói mòn|🏜️|Trees prevent soil erosion.|Cây xanh ngăn chặn xói mòn đất.
+desertification|n|sa mạc hóa|🏜️|Desertification threatens farmland.|Sa mạc hóa đe dọa đất nông nghiệp.|/dɪˌzɜːrtɪfɪˈkeɪʃən/
+flood defence|n|công trình chống lũ|🧱|The city built new flood defences.|Thành phố đã xây công trình chống lũ mới.
+irrigation|n|sự tưới tiêu|💧|Irrigation is important for rice farming.|Thủy lợi rất quan trọng đối với trồng lúa.
+reservoir|n|hồ chứa nước|🏞️|The reservoir supplies water to the city.|Hồ chứa cung cấp nước cho thành phố.
+marine|adj|thuộc biển|🐠|Plastic kills marine life.|Nhựa giết chết sinh vật biển.
+coral reef|n|rạn san hô|🪸|Coral reefs are dying.|Các rạn san hô đang chết dần.
+endangered species|n|loài có nguy cơ tuyệt chủng|🐅|Tigers are an endangered species.|Hổ là loài có nguy cơ tuyệt chủng.
+poaching|n|nạn săn trộm|🦏|Poaching is killing rhinos.|Nạn săn trộm đang giết chết loài tê giác.
+extinction|n|sự tuyệt chủng|🦤|Many species face extinction.|Nhiều loài đối mặt với nguy cơ tuyệt chủng.
+preserve|v|bảo tồn|🛡️|We must preserve our forests.|Chúng ta phải bảo tồn rừng.
+restore|v|khôi phục|🔄|They are restoring the old temple.|Họ đang trùng tu ngôi đền cổ.
+reforestation|n|sự trồng lại rừng|🌲|Reforestation projects help the climate.|Các dự án trồng lại rừng giúp ích cho khí hậu.
+carbon neutral|adj|trung hòa các-bon|⚖️|The company aims to be carbon neutral by 2030.|Công ty đặt mục tiêu trung hòa các-bon vào năm 2030.
+green energy|n|năng lượng xanh|🔋|Green energy is the future.|Năng lượng xanh là tương lai.
+hydroelectric|adj|thuộc thủy điện|💧|Vietnam has many hydroelectric dams.|Việt Nam có nhiều đập thủy điện.
+geothermal|adj|thuộc địa nhiệt|🌋|Iceland uses geothermal energy.|Iceland sử dụng năng lượng địa nhiệt.
+emit|v|thải ra, phát ra|💨|Cars emit carbon dioxide.|Ô tô thải ra khí CO2.
+absorb|v|hấp thụ|🧽|Trees absorb carbon dioxide.|Cây hấp thụ khí CO2.
+fragile|adj|mong manh, dễ vỡ|🥚|The ecosystem is very fragile.|Hệ sinh thái rất mong manh.
+irreversible|adj|không thể đảo ngược|🔒|The damage may be irreversible.|Thiệt hại có thể không thể đảo ngược.
+catastrophic|adj|thảm khốc|🌪️|The flood had catastrophic effects.|Trận lũ gây ra hậu quả thảm khốc.
+drastic|adj|quyết liệt, mạnh mẽ|⚡|We need to take drastic action.|Chúng ta cần hành động quyết liệt.
+eco-friendly|adj|thân thiện với môi trường|🌿|We use eco-friendly products.|Chúng tôi sử dụng các sản phẩm thân thiện với môi trường.|/ˌiːkoʊ ˈfrendli/
+footprint|n|dấu chân; dấu ấn|👣|We left footprints in the sand.|Chúng tôi để lại dấu chân trên cát.
+greenhouse effect|n|hiệu ứng nhà kính|🌡️|The greenhouse effect warms the planet.|Hiệu ứng nhà kính làm trái đất nóng lên.
+heatwave|n|đợt nắng nóng|🥵|The heatwave lasted two weeks.|Đợt nắng nóng kéo dài hai tuần.|/ˈhiːtweɪv/
+smog|n|khói mù|🌫️|The city is covered in smog.|Thành phố bị bao phủ bởi khói mù.
+wildfire|n|cháy rừng|🔥|Wildfires destroyed thousands of homes.|Cháy rừng đã phá hủy hàng nghìn ngôi nhà.
+oil spill|n|sự cố tràn dầu|🛢️|The oil spill killed many birds.|Sự cố tràn dầu đã giết chết nhiều loài chim.
+
+@ verbs | Động từ nâng cao | 🧗
+abandon|v|từ bỏ, bỏ rơi|🚪|They abandoned the plan.|Họ đã từ bỏ kế hoạch.
+accelerate|v|tăng tốc|🏎️|The car accelerated quickly.|Chiếc xe tăng tốc nhanh chóng.
+accumulate|v|tích lũy|📚|He accumulated a lot of knowledge.|Anh ấy đã tích lũy được nhiều kiến thức.
+anticipate|v|lường trước, dự đoán|🔮|We didn't anticipate any problems.|Chúng tôi không lường trước được vấn đề nào.
+compensate|v|bù đắp, bồi thường|⚖️|Nothing can compensate for the loss.|Không gì có thể bù đắp cho sự mất mát.
+comprise|v|bao gồm|🧩|The team comprises ten people.|Nhóm gồm mười người.
+constitute|v|cấu thành|🧱|Women constitute 60% of the staff.|Phụ nữ chiếm 60% nhân viên.
+deteriorate|v|xấu đi|📉|His health deteriorated quickly.|Sức khỏe của ông ấy xấu đi nhanh chóng.
+diminish|v|giảm bớt|🔻|The pain will diminish over time.|Cơn đau sẽ giảm dần theo thời gian.
+disrupt|v|làm gián đoạn|⛔|The strike disrupted train services.|Cuộc đình công làm gián đoạn dịch vụ tàu hỏa.
+distinguish|v|phân biệt|🔍|Can you distinguish between the twins?|Bạn có phân biệt được hai anh em sinh đôi không?
+endure|v|chịu đựng|🧗|They endured many hardships.|Họ đã chịu đựng nhiều gian khổ.
+enhance|v|nâng cao|✨|Music can enhance your mood.|Âm nhạc có thể cải thiện tâm trạng của bạn.
+exaggerate|v|phóng đại|🎈|Don't exaggerate!|Đừng phóng đại!
+exceed|v|vượt quá|📈|Don't exceed the speed limit.|Đừng vượt quá giới hạn tốc độ.
+exploit|v|khai thác; bóc lột|⛏️|They exploited the workers.|Họ đã bóc lột công nhân.
+facilitate|v|tạo điều kiện thuận lợi|🛤️|Technology facilitates learning.|Công nghệ tạo điều kiện cho việc học.
+foster|v|nuôi dưỡng, thúc đẩy|🌱|Teachers should foster creativity.|Giáo viên nên nuôi dưỡng sự sáng tạo.
+hinder|v|cản trở|🚧|Bad weather hindered the rescue.|Thời tiết xấu đã cản trở cuộc giải cứu.
+impose|v|áp đặt|⛓️|The government imposed a new tax.|Chính phủ đã áp đặt một loại thuế mới.
+initiate|v|khởi xướng|🚀|She initiated the project.|Cô ấy đã khởi xướng dự án.
+intervene|v|can thiệp|✋|The police had to intervene.|Cảnh sát đã phải can thiệp.
+neglect|v|bỏ bê|🥀|Don't neglect your health.|Đừng bỏ bê sức khỏe của bạn.
+nurture|v|nuôi dưỡng|🌷|Parents nurture their children.|Cha mẹ nuôi dưỡng con cái.
+overlook|v|bỏ sót; nhìn ra|👀|We overlooked an important detail.|Chúng tôi đã bỏ sót một chi tiết quan trọng.
+pursue|v|theo đuổi|🏃|She wants to pursue a career in medicine.|Cô ấy muốn theo đuổi sự nghiệp y khoa.
+reinforce|v|củng cố|🧱|Practice reinforces learning.|Luyện tập giúp củng cố việc học.
+resolve|v|giải quyết|🧩|They resolved the conflict peacefully.|Họ đã giải quyết xung đột một cách hòa bình.
+retain|v|giữ lại|🔐|It's hard to retain new words.|Thật khó để ghi nhớ từ mới.
+reveal|v|tiết lộ|🎁|She revealed her secret.|Cô ấy đã tiết lộ bí mật của mình.
+scrutinise|v|xem xét kỹ lưỡng|🔎|The plan was scrutinised by experts.|Kế hoạch đã được các chuyên gia xem xét kỹ lưỡng.|/ˈskruːtənaɪz/
+simulate|v|mô phỏng|🖥️|The software simulates real flights.|Phần mềm mô phỏng các chuyến bay thực tế.
+speculate|v|suy đoán|🤔|It's too early to speculate.|Còn quá sớm để suy đoán.
+stimulate|v|kích thích|⚡|Reading stimulates the brain.|Đọc sách kích thích não bộ.
+sustain|v|duy trì|🔋|We can't sustain this growth.|Chúng ta không thể duy trì mức tăng trưởng này.
+undermine|v|làm suy yếu|⛏️|Lack of sleep undermines your health.|Thiếu ngủ làm suy yếu sức khỏe.
+undergo|v|trải qua|🏥|He underwent surgery last week.|Anh ấy đã trải qua ca phẫu thuật tuần trước.
+utilise|v|tận dụng, sử dụng|🧰|We should utilise our resources better.|Chúng ta nên tận dụng tài nguyên tốt hơn.
+withstand|v|chịu được|🏰|The building can withstand earthquakes.|Tòa nhà có thể chịu được động đất.
+yield|v|mang lại, sinh ra|🌾|The research yielded interesting results.|Nghiên cứu đã mang lại những kết quả thú vị.
+cultivate|v|trồng trọt; trau dồi|🌱|Cultivate good habits.|Hãy rèn luyện những thói quen tốt.
+dominate|v|thống trị, chiếm ưu thế|👑|The team dominated the match.|Đội đã chiếm ưu thế trong trận đấu.
+emerge|v|nổi lên, xuất hiện|🌅|New problems emerged.|Những vấn đề mới đã xuất hiện.
+envisage|v|hình dung, dự tính|🔭|I don't envisage any problems.|Tôi không dự liệu có vấn đề gì.|/ɪnˈvɪzɪdʒ/
+convert|v|chuyển đổi|🔄|They converted the old factory into flats.|Họ đã chuyển đổi nhà máy cũ thành căn hộ.
+alter|v|thay đổi|✂️|The plan was altered at the last minute.|Kế hoạch đã bị thay đổi vào phút chót.
+attain|v|đạt được|🏔️|She attained her goal.|Cô ấy đã đạt được mục tiêu.
+
+@ adjectives | Tính từ nâng cao | 💎
+adequate|adj|đầy đủ, thỏa đáng|✅|The food was adequate.|Thức ăn đủ dùng.
+ambiguous|adj|mơ hồ|🌫️|The question is ambiguous.|Câu hỏi này mơ hồ.
+apparent|adj|rõ ràng; bề ngoài|👁️|For no apparent reason, she left.|Cô ấy bỏ đi mà không có lý do rõ ràng.
+arbitrary|adj|tùy tiện|🎲|The decision seemed arbitrary.|Quyết định có vẻ tùy tiện.
+authentic|adj|chính gốc, xác thực|✔️|This is authentic Italian food.|Đây là món ăn Ý chính gốc.
+beneficial|adj|có lợi|➕|Exercise is beneficial to health.|Tập thể dục có lợi cho sức khỏe.
+compulsory|adj|bắt buộc|📏|English is compulsory at school.|Tiếng Anh là môn bắt buộc ở trường.
+considerable|adj|đáng kể|📈|It cost a considerable amount of money.|Nó tốn một khoản tiền đáng kể.
+crucial|adj|cốt yếu|🔑|This is a crucial decision.|Đây là một quyết định then chốt.
+deliberate|adj|cố ý|🎯|It was a deliberate mistake.|Đó là một lỗi cố ý.
+diverse|adj|đa dạng|🌈|Vietnam has a diverse culture.|Việt Nam có nền văn hóa đa dạng.
+dynamic|adj|năng động|⚡|She is a dynamic leader.|Bà ấy là một nhà lãnh đạo năng động.
+excessive|adj|quá mức|📛|Excessive drinking is harmful.|Uống rượu quá mức có hại.
+explicit|adj|rõ ràng, tường minh|📝|The instructions were explicit.|Hướng dẫn rất rõ ràng.
+inevitable|adj|không thể tránh khỏi|⏳|Change is inevitable.|Thay đổi là điều không thể tránh khỏi.
+inherent|adj|vốn có|🧬|There are risks inherent in any business.|Bất kỳ việc kinh doanh nào cũng có rủi ro vốn có.
+integral|adj|không thể thiếu|🧩|Music is an integral part of the festival.|Âm nhạc là phần không thể thiếu của lễ hội.
+intense|adj|mạnh mẽ, dữ dội|🔥|The heat was intense.|Cái nóng thật dữ dội.
+meticulous|adj|tỉ mỉ|🔍|She is meticulous in her work.|Cô ấy rất tỉ mỉ trong công việc.
+notable|adj|đáng chú ý|⭐|It is a notable achievement.|Đó là một thành tựu đáng chú ý.
+plausible|adj|hợp lý, có vẻ đúng|🤔|His story sounds plausible.|Câu chuyện của anh ấy nghe có vẻ hợp lý.
+predominant|adj|chiếm ưu thế|👑|Rice is the predominant crop.|Lúa là cây trồng chủ yếu.
+profound|adj|sâu sắc|🌊|The book had a profound effect on me.|Cuốn sách đã có ảnh hưởng sâu sắc đến tôi.
+prominent|adj|nổi bật, nổi tiếng|🌟|He is a prominent scientist.|Ông ấy là một nhà khoa học nổi tiếng.
+reluctant|adj|miễn cưỡng|😒|She was reluctant to leave.|Cô ấy miễn cưỡng rời đi.
+rigorous|adj|nghiêm ngặt, chặt chẽ|📏|The training is rigorous.|Quá trình đào tạo rất nghiêm ngặt.
+robust|adj|mạnh mẽ, vững chắc|💪|We need a robust system.|Chúng ta cần một hệ thống vững chắc.
+scarce|adj|khan hiếm|🏜️|Water is scarce in the desert.|Nước khan hiếm ở sa mạc.
+spontaneous|adj|tự phát, ngẫu hứng|🎉|It was a spontaneous decision.|Đó là một quyết định ngẫu hứng.
+substantial|adj|đáng kể, lớn|🏋️|There was a substantial increase in prices.|Giá cả đã tăng đáng kể.
+subtle|adj|tinh tế, khó nhận ra|🌫️|There is a subtle difference.|Có một sự khác biệt tinh tế.|/ˈsʌtəl/
+superficial|adj|hời hợt, bề ngoài|🪞|His knowledge is superficial.|Kiến thức của anh ta hời hợt.
+tedious|adj|tẻ nhạt|😴|The work is tedious.|Công việc thật tẻ nhạt.
+thorough|adj|kỹ lưỡng|🔍|The police did a thorough search.|Cảnh sát đã khám xét kỹ lưỡng.
+tremendous|adj|to lớn|🌋|She made a tremendous effort.|Cô ấy đã nỗ lực rất lớn.
+trivial|adj|tầm thường, vặt vãnh|🪶|Don't worry about trivial things.|Đừng lo lắng về những chuyện vặt vãnh.
+unprecedented|adj|chưa từng có|🆕|The crisis is unprecedented.|Cuộc khủng hoảng là chưa từng có.
+versatile|adj|đa năng|🛠️|She is a versatile actress.|Cô ấy là một nữ diễn viên đa năng.
+vital|adj|thiết yếu, sống còn|❤️|Water is vital for life.|Nước thiết yếu cho sự sống.
+vivid|adj|sống động|🎨|I have vivid memories of my childhood.|Tôi có những ký ức sống động về tuổi thơ.
+weird|adj|kỳ lạ|👽|That's a weird idea.|Đó là một ý tưởng kỳ quặc.
+genuine|adj|thật, chân thật|💯|She showed genuine interest.|Cô ấy thể hiện sự quan tâm thật lòng.
+hostile|adj|thù địch|😠|The crowd was hostile.|Đám đông tỏ ra thù địch.
+indifferent|adj|thờ ơ|😐|He seemed indifferent to the news.|Anh ấy có vẻ thờ ơ với tin tức.
+obsessed|adj|bị ám ảnh|🌀|He is obsessed with football.|Anh ấy bị ám ảnh bởi bóng đá.
+overwhelming|adj|áp đảo, choáng ngợp|🌊|The response was overwhelming.|Phản hồi thật áp đảo.
+
+@ discourse | Từ nối & diễn đạt học thuật | 🔗
+furthermore|adv|hơn nữa|➕|Furthermore, the plan is too expensive.|Hơn nữa, kế hoạch quá tốn kém.
+moreover|adv|hơn thế nữa|➕|Moreover, he never apologised.|Hơn thế nữa, anh ta chưa bao giờ xin lỗi.
+nevertheless|adv|tuy nhiên, dù vậy|↩️|It was raining. Nevertheless, we went out.|Trời mưa. Dù vậy, chúng tôi vẫn ra ngoài.
+nonetheless|adv|tuy nhiên|↩️|The task was hard; nonetheless, she finished it.|Nhiệm vụ khó; tuy nhiên, cô ấy đã hoàn thành.
+consequently|adv|do đó|➡️|He didn't study; consequently, he failed.|Anh ấy không học; do đó, anh ấy đã trượt.
+hence|adv|vì thế|➡️|The road was closed, hence the delay.|Con đường bị đóng, vì thế mà chậm trễ.
+thus|adv|như vậy, do đó|➡️|Thus, we can conclude that the theory is wrong.|Như vậy, chúng ta có thể kết luận lý thuyết là sai.
+whereby|adv|theo đó|📜|They signed an agreement whereby they share profits.|Họ đã ký thỏa thuận theo đó chia sẻ lợi nhuận.
+despite|prep|mặc dù|🌧️|Despite the rain, we enjoyed the trip.|Mặc dù trời mưa, chúng tôi vẫn tận hưởng chuyến đi.
+in spite of|prep|bất chấp|💪|In spite of his illness, he went to work.|Bất chấp bệnh tật, anh ấy vẫn đi làm.
+regardless|adv|bất kể|🤷|He continued regardless of the danger.|Anh ấy vẫn tiếp tục bất kể nguy hiểm.
+notwithstanding|prep|mặc dù, bất chấp|⚖️|Notwithstanding the cost, we will go ahead.|Bất chấp chi phí, chúng tôi vẫn sẽ tiến hành.
+in addition|phr|thêm vào đó|➕|In addition, there is a free breakfast.|Thêm vào đó, có bữa sáng miễn phí.
+on the other hand|phr|mặt khác|🤲|On the other hand, it's very expensive.|Mặt khác, nó rất đắt.
+in contrast|phr|ngược lại|↔️|In contrast, the north is cold.|Ngược lại, miền bắc thì lạnh.
+as a result|phr|kết quả là|🏁|As a result, prices rose.|Kết quả là giá cả đã tăng.
+in conclusion|phr|tóm lại, kết luận|📌|In conclusion, exercise is good for everyone.|Tóm lại, tập thể dục tốt cho mọi người.
+to sum up|phr|tóm lại|📝|To sum up, the project was a success.|Tóm lại, dự án đã thành công.
+for instance|phr|ví dụ như|💡|Some fruits, for instance oranges, are rich in vitamin C.|Một số loại trái cây, ví dụ như cam, giàu vitamin C.
+namely|adv|cụ thể là|🎯|Two students, namely Lan and Minh, won prizes.|Hai học sinh, cụ thể là Lan và Minh, đã giành giải.
+in terms of|phr|xét về mặt|📏|In terms of price, this is the best option.|Xét về giá, đây là lựa chọn tốt nhất.
+with regard to|phr|liên quan đến|📎|I'm writing with regard to your letter.|Tôi viết thư liên quan đến lá thư của bạn.
+according to|prep|theo như|📰|According to the news, it will rain.|Theo tin tức, trời sẽ mưa.
+due to|prep|do, bởi vì|⛈️|The flight was delayed due to bad weather.|Chuyến bay bị hoãn do thời tiết xấu.
+owing to|prep|do, bởi vì|🔧|Owing to a technical problem, the show was cancelled.|Do sự cố kỹ thuật, buổi biểu diễn đã bị hủy.
+provided that|conj|miễn là|✅|You can go provided that you finish your homework.|Con có thể đi miễn là làm xong bài tập.
+as long as|conj|miễn là|⏳|You can stay as long as you are quiet.|Bạn có thể ở lại miễn là giữ yên lặng.
+in order to|phr|để mà|🎯|He works hard in order to save money.|Anh ấy làm việc chăm chỉ để tiết kiệm tiền.
+so as to|phr|để mà|🎯|She left early so as to catch the train.|Cô ấy rời đi sớm để kịp chuyến tàu.
+likewise|adv|tương tự|🟰|He was tired, and likewise his wife.|Anh ấy mệt, và vợ anh ấy cũng vậy.
+similarly|adv|tương tự như vậy|🟰|Similarly, prices in the south have risen.|Tương tự như vậy, giá ở miền nam đã tăng.
+conversely|adv|ngược lại|🔄|Conversely, some people prefer the city.|Ngược lại, một số người thích thành phố.
+alternatively|adv|hoặc là, cách khác|🔀|Alternatively, you can pay online.|Hoặc bạn có thể thanh toán trực tuyến.
+admittedly|adv|phải thừa nhận rằng|🙋|Admittedly, I was wrong.|Phải thừa nhận rằng tôi đã sai.
+arguably|adv|có thể cho là|🤔|He is arguably the best player in the world.|Anh ấy có thể được coi là cầu thủ giỏi nhất thế giới.
+presumably|adv|có lẽ, đoán chừng|🤔|Presumably, he forgot.|Có lẽ anh ấy đã quên.
+undoubtedly|adv|chắc chắn, không nghi ngờ gì|💯|She is undoubtedly talented.|Cô ấy chắc chắn có tài.
+inevitably|adv|chắc chắn, không tránh khỏi|⏳|Inevitably, prices will rise.|Giá cả chắc chắn sẽ tăng.
+predominantly|adv|chủ yếu|👑|The audience was predominantly young.|Khán giả chủ yếu là người trẻ.
+relatively|adv|tương đối|📊|The test was relatively easy.|Bài kiểm tra tương đối dễ.
+virtually|adv|hầu như|🔜|It's virtually impossible.|Điều đó hầu như là không thể.
+merely|adv|chỉ, đơn thuần|🤏|It's merely a suggestion.|Đó chỉ là một gợi ý.
+solely|adv|duy nhất, chỉ|1️⃣|He is solely responsible for the mistake.|Anh ấy là người duy nhất chịu trách nhiệm về sai lầm.
+ultimately|adv|rốt cuộc, cuối cùng|🏁|Ultimately, the decision is yours.|Rốt cuộc, quyết định là của bạn.
+initially|adv|ban đầu|▶️|Initially, I didn't like him.|Ban đầu tôi không thích anh ấy.
+subsequently|adv|sau đó|⏭️|He was arrested and subsequently released.|Anh ta bị bắt và sau đó được thả.
+simultaneously|adv|đồng thời|🔀|Two things happened simultaneously.|Hai việc xảy ra đồng thời.
+
+@ phrasal | Cụm động từ & thành ngữ | 🧩
+carry out|v|tiến hành|🧪|They carried out an experiment.|Họ đã tiến hành một thí nghiệm.
+come up with|v|nghĩ ra|💡|She came up with a great idea.|Cô ấy đã nghĩ ra một ý tưởng tuyệt vời.
+look into|v|xem xét, điều tra|🔍|The police are looking into the case.|Cảnh sát đang điều tra vụ việc.
+put off|v|trì hoãn|⏰|Don't put off your homework.|Đừng trì hoãn bài tập về nhà.
+set up|v|thành lập, thiết lập|🏗️|They set up a new company.|Họ đã thành lập một công ty mới.
+take over|v|tiếp quản|🔑|A big company took over the business.|Một công ty lớn đã tiếp quản doanh nghiệp.
+turn down|v|từ chối; vặn nhỏ|🙅|She turned down the job offer.|Cô ấy đã từ chối lời mời làm việc.
+bring about|v|gây ra, mang lại|🌊|The internet brought about many changes.|Internet đã mang lại nhiều thay đổi.
+figure out|v|tìm ra, hiểu ra|🧩|I can't figure out the answer.|Tôi không thể tìm ra câu trả lời.
+point out|v|chỉ ra|👉|He pointed out my mistake.|Anh ấy chỉ ra lỗi sai của tôi.
+rule out|v|loại trừ|❌|The police have ruled out murder.|Cảnh sát đã loại trừ khả năng giết người.
+run out of|v|hết, cạn kiệt|🪫|We've run out of milk.|Chúng ta hết sữa rồi.
+cut back on|v|cắt giảm|✂️|I'm cutting back on sugar.|Tôi đang cắt giảm đường.
+give up|v|từ bỏ|🏳️|Never give up!|Đừng bao giờ bỏ cuộc!
+keep up with|v|theo kịp|🏃|It's hard to keep up with technology.|Thật khó để theo kịp công nghệ.
+look forward to|v|mong chờ|🤩|I look forward to hearing from you.|Tôi mong nhận được hồi âm của bạn.
+make up for|v|bù đắp|⚖️|I'll make up for being late.|Tôi sẽ bù đắp cho việc đến muộn.
+put up with|v|chịu đựng|😖|I can't put up with this noise.|Tôi không chịu nổi tiếng ồn này.
+get over|v|vượt qua (khó khăn, bệnh)|🌈|She got over the flu quickly.|Cô ấy khỏi cúm nhanh chóng.
+call off|v|hủy bỏ|❌|The match was called off.|Trận đấu đã bị hủy.
+break down|v|hỏng hóc; suy sụp|🚗|Our car broke down on the highway.|Xe của chúng tôi bị hỏng trên đường cao tốc.
+take up|v|bắt đầu (sở thích); chiếm|🎸|He took up the guitar last year.|Anh ấy bắt đầu học đàn ghi-ta năm ngoái.
+come across|v|tình cờ gặp|🔎|I came across an old photo.|Tôi tình cờ thấy một bức ảnh cũ.
+go through|v|trải qua; xem kỹ|📄|She went through a difficult time.|Cô ấy đã trải qua một thời gian khó khăn.
+look up to|v|kính trọng, ngưỡng mộ|🙇|I look up to my grandfather.|Tôi kính trọng ông của mình.
+stand out|v|nổi bật|🌟|Her red dress stood out.|Chiếc váy đỏ của cô ấy thật nổi bật.
+catch up|v|bắt kịp|🏃|Go ahead, I'll catch up with you.|Cứ đi trước đi, tôi sẽ đuổi kịp.
+end up|v|rốt cuộc là|🏁|We ended up staying at home.|Rốt cuộc chúng tôi lại ở nhà.
+fall behind|v|tụt lại phía sau|🐢|Don't fall behind with your studies.|Đừng để việc học bị tụt lại.
+hold on|v|chờ một chút|✋|Hold on, I'll get a pen.|Chờ chút, tôi đi lấy bút.
+pass away|v|qua đời|🕯️|His grandfather passed away last year.|Ông của anh ấy đã qua đời năm ngoái.
+show off|v|khoe khoang|😎|He likes to show off his new car.|Anh ta thích khoe chiếc xe mới.
+sort out|v|giải quyết, sắp xếp|🗂️|I need to sort out my papers.|Tôi cần sắp xếp lại giấy tờ.
+work out|phr|tìm ra cách; tính toán|🧮|We need to work out a plan.|Chúng ta cần vạch ra một kế hoạch.
+a piece of cake|phr|dễ như ăn bánh|🍰|The test was a piece of cake.|Bài kiểm tra dễ như ăn bánh.
+break the ice|phr|phá vỡ sự ngại ngùng|🧊|He told a joke to break the ice.|Anh ấy kể chuyện cười để phá vỡ không khí ngại ngùng.
+under the weather|phr|không khỏe|🤒|I'm feeling a bit under the weather.|Tôi thấy hơi mệt trong người.
+once in a blue moon|phr|hiếm khi|🌕|I eat fast food once in a blue moon.|Tôi rất hiếm khi ăn đồ ăn nhanh.
+hit the books|phr|học hành chăm chỉ|📚|I need to hit the books tonight.|Tối nay tôi cần học bài chăm chỉ.
+cost an arm and a leg|phr|rất đắt đỏ|💸|That car cost an arm and a leg.|Chiếc xe đó đắt cắt cổ.
+on the same page|phr|cùng quan điểm|📄|Let's make sure we're on the same page.|Hãy đảm bảo chúng ta cùng quan điểm.
+the last straw|phr|giọt nước tràn ly|🥤|His rude comment was the last straw.|Câu nói thô lỗ của anh ta là giọt nước tràn ly.
+get the hang of|phr|nắm được cách làm|🛹|You'll soon get the hang of it.|Bạn sẽ sớm quen tay thôi.
+keep an eye on|phr|để mắt tới|👁️|Can you keep an eye on my bag?|Bạn có thể trông giúp túi của tôi không?
+make ends meet|phr|xoay xở đủ sống|💵|It's hard to make ends meet on a low salary.|Thật khó để xoay xở với mức lương thấp.
+in the long run|phr|về lâu dài|🛤️|Exercise will help you in the long run.|Tập thể dục sẽ giúp ích cho bạn về lâu dài.
+take for granted|phr|coi là hiển nhiên|🤷|Don't take your parents for granted.|Đừng coi sự hy sinh của cha mẹ là điều hiển nhiên.
+let alone|phr|huống chi, nói gì đến|🙅|I can't afford a bike, let alone a car.|Tôi không đủ tiền mua xe đạp, nói gì đến ô tô.
+by and large|phr|nhìn chung|🌐|By and large, the trip was a success.|Nhìn chung, chuyến đi đã thành công.
+sooner or later|phr|sớm hay muộn|⏳|Sooner or later, you'll have to decide.|Sớm hay muộn bạn cũng phải quyết định.
